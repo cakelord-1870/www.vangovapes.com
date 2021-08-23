@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/shiver.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2019-04-23T16:26:40-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/2030386151539</id>
+    <published>2019-04-23T16:26:40-07:00</published>
+    <updated>2019-04-23T16:26:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/pre-sale-shivers-black-pom-pom"/>
+    <title>Black PomPom</title>
+    <s:type>Shiver</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/VGV_Profile_BlackPomPom_Website.png?v=1618442009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Shiver<br>
+        <strong>Price: </strong>
+            14.99 - 49.99
+            <a href="https://www.vangovapes.com/products/pre-sale-shivers-black-pom-pom">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The delicate sweetness and bite of a ripe <span style="color: #f40c74;"><strong>pomegranate</strong></span>, perfectly complemented by a bright touch of <span style="color: #b7155e;"><strong>blackcurrant</strong></span> and a gentle base of <span style="color: #b9175f;"><strong>blackberry. </strong></span></p>
+<p><span>We also added a subtle chill that doesn't overwhelm your palate, but keeps you refreshed and enjoying every distinct flavor that this e-juice offers. </span></p>
+<p><strong>VG Ratios:</strong></p>
+<ul>
+<li>0, 3 and 6mg - 70% VG</li>
+<li>12 and 18mg - 65% VG</li>
+<li>All salt variants - 50% VG</li>
+</ul>
+<p><span>Note: All our salts are made from <strong>benzoic acid free</strong> nicotine salts!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>berries</s:tag>
+    <s:tag>menthol</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>0 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>3 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>3 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>6 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>12 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>18 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>0 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>6 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>12 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>18 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>50 mg Salt / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>20 mg Salt (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>35 mg Salt / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>10 mg Salt (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>0.1 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>3 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>6 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>12 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2030386151539</id>
+      <title>18 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6730</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/2027195367539</id>
+    <published>2019-04-17T11:04:04-07:00</published>
+    <updated>2019-04-17T11:04:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/pre-sale-shivers-citrus-jive"/>
+    <title>Citrus Jive</title>
+    <s:type>Shiver</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/VGV_Profile_CitrusJive_V2_Website.png?v=1618442701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Shiver<br>
+        <strong>Price: </strong>
+            14.99 - 49.99
+            <a href="https://www.vangovapes.com/products/pre-sale-shivers-citrus-jive">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A perfectly sweet and tart combination of <span style="color: #f1e478;"><strong>lemons</strong></span> and <span style="color: #86b43d;"><strong>lime</strong></span> bursting with juicy <span style="color: #e1bc21;"><strong>tangerines</strong></span> and freshly squeezed <span style="color: #ff8000;"><strong>oranges</strong></span>, slightly cooled to the perfect level! </p>
+<p>This flavor uses a different variation of menthol compared to our Frozen collection. The menthol is much lighter that doesn't feel like it overwhelms your palate, but still has that cool and refreshing note. </p>
+<p><strong>VG Ratios:</strong></p>
+<ul>
+<li>0, 3 and 6mg - 70% VG</li>
+<li>12 and 18mg - 65% VG</li>
+<li>All salt variants - 50% VG</li>
+</ul>
+<p><span>Note: All our salts are made from <strong>benzoic acid free</strong> nicotine salts!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>citrus</s:tag>
+    <s:tag>ejuice</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>menthol</s:tag>
+    <s:tag>orange</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>0 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>3 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>3 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>6 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>12 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>18 mg / 60 ml</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>FG5548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>0 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>6 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>12 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>18 mg / 120 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FG5553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>50 mg Salt / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>20 mg Salt (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>35 mg Salt / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>10 mg Salt (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>FG5909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>0.1 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>3 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>6 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>12 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027195367539</id>
+      <title>18 mg (BC Compliant) / 30 ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>FG6729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

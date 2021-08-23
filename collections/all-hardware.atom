@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/all-hardware.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2021-08-18T19:17:36-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/6625720926323</id>
+    <published>2021-08-18T19:17:36-07:00</published>
+    <updated>2021-08-18T19:17:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-nord-4-pod-replacement"/>
+    <title>SMOK - Nord 4 Pod Replacement - Pack of 3</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/nord4replacementpod_large_f2a6a230-9947-48a5-9357-9b406ace7a42.jpg?v=1629167984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">SMOK Nord 4 empty pod in CRC Version is specially designed for SMOK Nord 4 Kit, it features a refillable 4.5ml capacity, a side filled, store more of your favorite e-juice, enough to meet long-time vape needs.</span>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nord 4</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625720926323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6625714765939</id>
+    <published>2021-08-18T19:13:32-07:00</published>
+    <updated>2021-08-18T19:13:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-rpm-2-replacement-coils-5-pack"/>
+    <title>SMOK RPM 2 - Replacement coils - 5 Pack</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SMOKRPM2REPLACEMENTCOILS_large_1.jpg?v=1629167396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99 - 16.99
+            <a href="https://www.vangovapes.com/products/smok-rpm-2-replacement-coils-5-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">SMOK RPM2 replacement coils (5 PACK) is compatible with the following SMOK Pod Kits, the RPM 2 Pod System and the SCAR-P3 and SCAR-P5.</span></p>
+<p>It comes with 2 types of coils: Mesh 0.16ohm Coil (25-50W) and DC 0.6ohm MTL Coil.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>rpm</s:tag>
+    <s:tag>rpm2</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625714765939</id>
+      <title>0.16 Mesh</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625714765939</id>
+      <title>0.6 DC</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626930819187</id>
+    <published>2021-08-18T18:44:52-07:00</published>
+    <updated>2021-08-18T18:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-tfv9-tank-crc"/>
+    <title>SMOK - Black TFV9 Tank (CRC)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SMOKTFV9TANK1_large_92688f49-b527-474b-904e-48e2ceeb66e4.jpg?v=1629337493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Smok TFV9 Tank in CRC version, which adopts the Smok #1 Bulb Glass Tube and the diameter is 28mm, enlarges the e-juice capacity to 6.5ml, no need to add the juice frequently, the Smok Tank with the childproof locking mechanism on the top cap to keep children away, this design also effectively prevent accidental opening of the top cap and leakage of e-liquid. the TFV9 Tank with a gold-plating pin to increase the rub resistance and strengthen electrical conductivity, the connector can maintain its original appearance even if it's reused.  there are dual large airflow adjustable slots on the base, you could rotate the AFC ring to adjust the intake air freely, it will help to obtain massive clouds of vapor and excellent taste flavor. the Smok TFV9 comes with the 0.15ohm V9 Meshed Coils, which made of Nichrome material that features a large heating contact surface area to heats the e-juice fastly and evenly, will deliver the huge clouds and superb flavor with less heat time.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Material: Stainless Steel + Pyrex Glass</li>
+<li data-mce-fragment="1">Size: 56*28mm</li>
+<li data-mce-fragment="1">Capacity: 6.5ml</li>
+<li data-mce-fragment="1">Childproof Top Cap</li>
+<li data-mce-fragment="1">Convenience Top E-Juice Refill Design</li>
+<li data-mce-fragment="1">Dual Airflow Adjustable Slots On Base</li>
+<li data-mce-fragment="1">Gold-Plated 510 Thread</li>
+<li data-mce-fragment="1">Coils: V9 Meshed Coil, 0.15ohm,  30-70W, Best: 50-60W</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1*Smok TFV9 Tank [CRC]</li>
+<li data-mce-fragment="1">1*V9 Meshed Coil 0.15ohm</li>
+<li data-mce-fragment="1">1*Extra Glass Tube</li>
+<li data-mce-fragment="1">1*User Manual</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smok</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626930819187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626246819955</id>
+    <published>2021-08-17T20:12:19-07:00</published>
+    <updated>2021-08-17T20:12:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/bacon-prime-vape-cotton"/>
+    <title>Bacon Prime - Vape Cotton</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_cottonbaconprime2_large_2ba1820c-d7b9-4a72-b50f-c3c264786db0.jpg?v=1629256295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">That's right, the folks at Wick 'n' Vape have further refined their already exceptional, industry standard cotton wicking! Cotton Bacon Prime promises to wick 33% faster than traditional Cotton Bacon, boasting better wicking than any cotton on the market currently. We are very excited to be among the first to bring you this top shelf cotton!</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifications:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Perfect for Squonking, tanks and RDAs</li>
+<li data-mce-fragment="1">33% faster absorption, easier separation</li>
+<li data-mce-fragment="1">The most cutting edge, cleanest and easy to use cotton wick.</li>
+<li data-mce-fragment="1">Every bag of Cotton Bacon PRIME includes a unique authentication number that can be verified independently.</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>Vape cotton</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626246819955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626244034675</id>
+    <published>2021-08-17T19:56:25-07:00</published>
+    <updated>2021-08-17T19:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-replacement-glass-5-2ml"/>
+    <title>HorizonTech - Falcon 2 Replacement Glass</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_falcon2replacementglassbubble_large_f741664a-c3ea-4fd1-9ca9-eb61b6d06745.jpg?v=1629255384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">HORIZONTECH FALCON 2 BUBBLE GLASS</p>
+<p data-mce-fragment="1">The replacement glass for Horizontech Falcon 2 tanks, in 5.2 ml juice capacity.</p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>replacement glass</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626244034675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626242723955</id>
+    <published>2021-08-17T19:52:13-07:00</published>
+    <updated>2021-08-17T19:52:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-tank"/>
+    <title>HorizonTech - Falcon 2 Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/falcontankcrc_large_59b3bdaf-7122-4631-b66f-e106ab4c11fc.jpg?v=1629255134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="STYLE6" data-mce-fragment="1">Horizon Falcon 2 Tank Atomizer in CRC version is a new version of the HorizonTech Falcon series. Horizon Falcon 2 Sub Ohm Tank features 5.2ml e-juice capacity to meet your vaping needs. It is made of Pyrex glass and stainless steel material that makes your device durable.</p>
+<p class="STYLE6" data-mce-fragment="1">The HorizonTech Falcon II replacement tank adopts adjustable airflow and resin drip tip that will bring you purest and fantastic vaping flavor. What's more, it features a new fan-shaped coil, the tapered structure forms a bottom-up vapor compression path, which makes the flavor denser and the vapor more smooth. HorizonTech Falcon II sub-ohm tank optimizes the core change method: the former core is threaded and must be replaced after the smoke oil is completely used up, now simply unscrew the base and pull the atomization core directly without smudging the hand.</p>
+<p class="STYLE6" data-mce-fragment="1"><strong data-mce-fragment="1">Parameters</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tank Length: 56mm</li>
+<li data-mce-fragment="1">Excircle Diameter: 25mm</li>
+<li data-mce-fragment="1">Glass Tube Diameter: 28mm</li>
+<li data-mce-fragment="1">Capacity: 5.2ml / 3.4ml(Glass Tube)</li>
+<li data-mce-fragment="1">Coil Option: Falcon 2 Sector Mesh Coil</li>
+<li data-mce-fragment="1">Coil Resistance: 0.14ohm</li>
+<li data-mce-fragment="1">Wattage: 70-75W</li>
+<li data-mce-fragment="1">Fill: Top-filling system</li>
+<li data-mce-fragment="1">Connection: 510</li>
+<li data-mce-fragment="1">Material: Stainless Steel (Body) + Pyrex Glass (Tank) + Resin (Drip Tip)</li>
+</ul>
+<p data-mce-fragment="1">﻿<strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x Falcon II Tank [CRC]</li>
+<li data-mce-fragment="1">1x Sector Coil</li>
+<li data-mce-fragment="1">1x 3.4ml Glass tube</li>
+<li data-mce-fragment="1">1x Set of O rings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626241249395</id>
+    <published>2021-08-17T19:46:41-07:00</published>
+    <updated>2021-08-17T19:46:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-replacement-coils-pack-of-3"/>
+    <title>HorizonTech - Falcon 2 Replacement Coils - Pack of 3</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_horizontechfalconcoils_large_474610ba-870c-4f15-b4ee-7cd97322ba87.jpg?v=1629254796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Horizontech Falcon 2 coil is designed for the horizontech Falcon 2 tanks. which is the sector mesh coils with wood pulp cotton. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">0.14 OHM, best for 70-75W </li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626241249395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HD0615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600100806771</id>
+    <published>2021-06-14T19:42:45-07:00</published>
+    <updated>2021-06-14T19:42:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporesso-gen-s-vaping-kit"/>
+    <title>Vaporesso Gen S - Vaping Kit with GTX 22 Tank</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/gens_large_368ef5ed-1234-4960-b2ba-77bf65756530.jpg?v=1623377286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">GEN S STARTER KIT WITH GTX TANK 22C CRC version is a high-powered vaping system equipped with GTX Tank that utilizes GT MESHED coil. Supported by the AXON chip, GEN S will impress you by the consistent flavor and dense vapor throughout with Pulse Mode. The well-developed chipset also breaks the using boundary with its user-friendly operating system.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3.5ml GTX Tank with top filling design</li>
+<li data-mce-fragment="1">Dual 18650 batteries with 220W max output</li>
+<li data-mce-fragment="1">AXON chip for the user-friendly operating system</li>
+<li data-mce-fragment="1">GT Mesh coils with the upgraded MESHED technology</li>
+<li data-mce-fragment="1">4 modes: Pulse Mode, Power ECO, Smart TC, and DIY</li>
+<li data-mce-fragment="1">2.5A fast charging in 60 minutes</li>
+<li data-mce-fragment="1">0.91-inch OLED screen for clear information</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x GEN S mod</li>
+<li data-mce-fragment="1">1× GTX tank (3.5ml) [CRC]</li>
+<li data-mce-fragment="1">1× GT4 Meshed coil</li>
+<li data-mce-fragment="1">1× GT Meshed coil</li>
+<li data-mce-fragment="1">1× Extra glass tube</li>
+<li data-mce-fragment="1">4x O-rings</li>
+<li data-mce-fragment="1">1× Micro USB cable</li>
+<li data-mce-fragment="1">1× User manual</li>
+<li data-mce-fragment="1">1x Warranty card</li>
+</ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>device</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>vape kit</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600100806771</id>
+      <title>Silver</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>HD0536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600101822579</id>
+    <published>2021-06-14T19:25:21-07:00</published>
+    <updated>2021-06-14T19:25:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporesso-gen-s-box-mod"/>
+    <title>Vaporesso Gen S - Box Mod</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_vaporessogenboxmod_large_82909a4a-72b5-4030-9e45-8db90688222d.jpg?v=1623377992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="detail-text">GEN makes high power devices more accessible to people than ever before. 220W in a 107 gram body that feels smooth yet textured and durable, it will feel like it’s part of you. GEN keeps giving extra throughout every inhale - not just the initial fire - to provide an extraordinary punch. Paired with our New AXON Chip makes it easier than ever to operate.</p>
+<p class="detail-text detail-text-1"> <strong>Includes:</strong></p>
+<ul>
+<li>1 × GEN Mod</li>
+<li>1 × USB Cable</li>
+<li>1 × User Manual</li>
+<li>1 × Warranty Card</li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>box mod</s:tag>
+    <s:tag>device</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600101822579</id>
+      <title>Black &amp; Blue</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>HD0538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600101822579</id>
+      <title>Black &amp; Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>HD0539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600101822579</id>
+      <title>Black</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>HD0537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600102445171</id>
+    <published>2021-06-14T19:14:58-07:00</published>
+    <updated>2021-06-14T19:14:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporessro-gtx-22-tank-bubble-glass-3-5ml"/>
+    <title>Vaporessro GTX 22 Tank - Bubble Glass 3.5ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_babyv2replacementglass5ml_large_b513155b-66e9-40c4-b803-ea3e9fdaa4e8.jpg?v=1623378659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">﻿The replacement glass tube is designed for the Vaporesso GTX tank 22 that expands your juice capacity to 3.5ml. </span></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gtx 22</s:tag>
+    <s:tag>replacement glass</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600102445171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600103034995</id>
+    <published>2021-06-14T19:11:18-07:00</published>
+    <updated>2021-06-14T19:11:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/voopoo-tpp-replacement-coils-3-pack"/>
+    <title>VOOPOO TPP Replacement Coils - 3 Pack</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/voopootppmeshreplacementcoil_large_e06c982e-8e2e-4f8f-87c8-dc9a91e75b7e.jpg?v=1623379271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The TPP series mesh coils feature a new patented technology that not only increases the internal atomization area, but also increases the heating speed to enjoy flavor than ever before. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Resistance: 0.15ohm</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Power Range: 60~80W</span></li>
+<li data-mce-fragment="1">Resistance: 0.2ohm<br>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Power Range:40~60W</span></li>
+</ul>
+<p data-mce-fragment="1"><br></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>tpp</s:tag>
+    <s:tag>voopoo</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103034995</id>
+      <title>0.15</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>HD0542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103034995</id>
+      <title>0.20</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>HD0543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600100151411</id>
+    <published>2021-06-14T19:05:53-07:00</published>
+    <updated>2021-06-14T19:05:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/voopoo-drag-3-vape-kit"/>
+    <title>VOOPOO Drag 3 - Vape Kit</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/drag3podkit_large_2f451e16-c8ab-46ea-9e05-b511e4442f64.jpg?v=1623376778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The VOOPOO Drag 3 kit comes with a device and the TPP tank. The device features multiple modes including High Burst Super Mode, Temperature Control Mode and a Smart Mode. This device can output a maximum of  177W that highlights the best from the flavors you fill in your tank.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Drag 3 has an optimal finish with luxurious leather, robust metal and stylish geometric lines. Powered by the most advanced chipset to date, bringing you more power, incredibly stable output and highly intelligent functions.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Dual High-Amp 18650 Batteries – Not Included</li>
+<li data-mce-fragment="1">Wattage Output Range: 5-177W</li>
+<li data-mce-fragment="1">Voltage Output Range: 6.4-8.4V</li>
+<li data-mce-fragment="1">Resistance Range: 0.1-3.0ohm</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Intuitive Firing Button</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1.08″ TFT Color Display</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Two Adjustment Buttons</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Overtime Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Short-Circuit Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Overcharge Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Output Over Current Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Over discharge Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Overtemperature Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Battery Reversal Protection</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Type-C Charging Port</span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Drag 3 device [CRC]</li>
+<li data-mce-fragment="1">TPP Pod [CRC]</li>
+<li data-mce-fragment="1">DM1 0.15 ohm coil</li>
+<li data-mce-fragment="1">DM2 0.2 ohm coil</li>
+<li data-mce-fragment="1">Type C charging cable</li>
+<li data-mce-fragment="1">User manual</li>
+</ul>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>devices</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>vape kit</s:tag>
+    <s:tag>voopoo</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600100151411</id>
+      <title>Marsala</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>HD0532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600100151411</id>
+      <title>Prussian Blue</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>HD0533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600100151411</id>
+      <title>Sandy Brown</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>HD0534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600100151411</id>
+      <title>Smoky Grey</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>HD0535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600103362675</id>
+    <published>2021-06-14T18:37:55-07:00</published>
+    <updated>2021-06-14T18:37:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporesso-gtx-replacement-coils-5-pack"/>
+    <title>Vaporesso GTX  Replacement Coils - 5 Pack</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_targetpm80gtxcoils_large_04610721-7803-449e-a222-9aa1bb023ecc.jpg?v=1623379604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Vaporesso GTX Coil is specially designed for Target 80 mod pod system/target pm80 SE, Gen Nano, GTX One. It comes in 5 pieces each pack.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">GTX 0.2ohm mesh coil (45W–60W); applicable product: Target PM80/PM80 SE,GEN NANO</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">GTX 0.3ohm mesh coil (32W-45W); applicable product: Target PM80/PM80 SE,GEN NANO</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">GTX 0.6ohm mesh coil (20W-30W);applicable product: Target PM80/PM80 SE, Target PM30, GTX ONE; GEN NANO</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">GTX 0.8ohm mesh coil (12W-20W);applicable product: PM80/PM80 SE, Target PM30, GTX ONE; GEN NANO</span></li>
+<li data-mce-fragment="1">GTX 1.2ohm regualr coil (8W-12W); <span data-mce-fragment="1">applicable product: </span><span data-mce-fragment="1">PM80/PM80 SE, Target PM30, GTX ONE; GEN NANO</span>
+</li>
+</ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>gtx</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>0.15 (Mesh)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>0.2 (Mesh)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>0.3 (Mesh)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>0.6 (Mesh)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>0.8 (Mesh)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600103362675</id>
+      <title>1.2</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4586654007411</id>
+    <published>2021-06-14T18:07:11-07:00</published>
+    <updated>2021-06-14T18:07:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/geekvape-aegis-boost-boost-plus-g-coil-5-pack"/>
+    <title>Geekvape Aegis Boost / Boost Plus G Coil (5 Pack)</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/geekvape-aegis-boost-replacement-coils-13543964540992_1024x1024_e56ea127-bdba-41e5-a05f-1e70d348aab8.jpg?v=1600212876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The replacement coils for the Geekvape Aegis Boost pod kits or the Aegis boost plus kit, it comes with two options:</p>
+<ul>
+<li>0.6ohm (15W -25W)</li>
+<li>0.4ohm (25W-33W)</li>
+<li><span>5 PCS / Pack</span></li>
+<li><span>Fit for GeekVape Aegis Boost Kit / Boost Plus Pod kit</span></li>
+</ul>
+<ul></ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 pack</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>aegis</s:tag>
+    <s:tag>boost</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>geekvape</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>nicsalt</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>salt nic</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.3</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.4</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>1.2</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6603815125107</id>
+    <published>2021-06-14T17:21:46-07:00</published>
+    <updated>2021-06-14T17:21:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/crown-v-drip-tip"/>
+    <title>Uwell Crown V Replacement Drip Tip</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/uwellcrown5driptip_large_5ae16a18-8b63-478c-8b06-627594b5f595.jpg?v=1623715277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 DRIP TIP"}' data-mce-fragment="1">Replacement d</span><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 DRIP TIP"}' data-mce-fragment="1">rip tip for Uwell Crown 5 tank.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>crown 5</s:tag>
+    <s:tag>crown v</s:tag>
+    <s:tag>drip tip</s:tag>
+    <s:tag>uwell</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6584694308979</id>
+    <published>2021-05-02T19:48:44-07:00</published>
+    <updated>2021-05-02T19:48:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/mortal-koils-rebuildable-coils"/>
+    <title>Mortal Koils Premade Coils</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Website_Square_Logo.png?v=1620008313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pick up your pack of Mortal Koils for any rebuildable device right over here! Measuring at a width of 3mm, they fit in most RDAs, RDTAs, RTAs, &amp; RBA decks. On top of that, they fit in most sub-ohm tank decks provided they have the RBA adapter and each purchase comes with a few coils so you'll be equipped for a while!</p>
+<ul>
+<li>
+<strong>Framed Staples:</strong> Good for hot vapes and offer huge flavour.</li>
+<li>
+<strong>Aliens</strong> are a good all around coil. They give off a crackling sound, and have better flavour and clouds.</li>
+<li>
+<strong>Mohawks:</strong> Great flavour and clouds. As they can be a bit tricky to install, they are more appropriate for experienced installers looking for attractive coils.</li>
+</ul>
+<p>The are handmade out of Nichrome 80 (nickel chromium) which has been used for voltage and wattage control for many years. They run at 0.25 ohms and so will safely operate in many sub-ohm devices, even at higher wattages.</p>
+<p>Both Small and large orders are hand built and made to perfection with the cleanest wire, and then put in to a UV disinfection box after packaging to ensure the cleanest product we can deliever to you for your safety.</p>
+<p>It is advised to have a knowledge on Ohm's Law as well as battery safety before operating any variable vaping device.</p>
+<ul></ul>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>prebuilt</s:tag>
+    <s:tag>RDA</s:tag>
+    <s:tag>rebuildable</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Alien</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Fralien</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Mohawk</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4586657153139</id>
+    <published>2021-04-08T13:05:17-07:00</published>
+    <updated>2021-04-08T13:05:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/geekvape-aegis-boost-rba"/>
+    <title>Geekvape Aegis Boost RBA</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/boostrbapod_800x_633d6be5-b87c-414e-b0fb-e45833e80b3d.jpg?v=1600213451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The<strong data-mce-fragment="1"> Geekvape Aegis Boost RBA </strong>is a 2 ml multi-functional atomizer with a new build deck designed for easy coil building to meet your different vaping needs. You can make your own coil with the DIY coil as you like. The Aegis Boost RBA tank will bring you an amazing vaping experience. </p>
+<p data-mce-fragment="1">Compatible with the <a title="Geekvape Aegis Boost" href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant" data-mce-href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant">Geekvape Aegis Boost</a>.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Pod Capacity: 2 ml</li>
+<li data-mce-fragment="1">Quantity: 1 pcs / pack</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1 x Geekvape Aegis Boost RBA 2 ml</li>
+</ul>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>boost</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>geekvape</s:tag>
+    <s:tag>nicsalt</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586657153139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/1520533373043</id>
+    <published>2021-04-08T12:53:30-07:00</published>
+    <updated>2021-04-08T12:53:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/goot-ceramic-aligner-tool"/>
+    <title>Goot Ceramic Aligner Tool</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Ceramic_Aligner_Tool_Resized.png?v=1535395351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="descdiv desc_details">Goot CD-20 Ceramic Aligner Tool Screwdriver</div>
+<div class="descdiv desc_details">Size: 1.8mm x 0.4mm</div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details">To be used for the adjustment of electronic parts such as the components of vaporizers, audio instruments, computers, telecommunication devices and electronic components.</div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details">Materials include a Ceramic Tip and  Non conductive, non-magnetic properties ideal for high frequency bands with smooth twisting.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>aligner</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>coil building</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>tool</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1520533373043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/294158958621</id>
+    <published>2021-04-08T12:17:15-07:00</published>
+    <updated>2021-04-08T12:17:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/efest-imr-26650-4200mah-battery"/>
+    <title>eFest IMR 26650 4200mAh Battery</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/EFEST-IMR-26650-4200MAH-BATTERY_1.jpg?v=1565197195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brand: Efest</span><br><span>Size: 26650</span><br><span>Chemistry: IMR</span><br><span>Nominal Capacity: 4200mAh</span><br><span>Nominal Voltage: 3.7V</span><br><span>Discharge: 25A Max Continuous, Rated 50A Max Pulse by Efest</span><br><span>Positive: Flat</span><br><span>Protected: NO, UNPROTECTED</span><br><span>Rechargeable: Yes</span><br><span>Dimensions: 26.05mm x 66.38mm</span><br><span>Weight: 88.4g</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/294158958621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/777676128371</id>
+    <published>2021-04-08T11:30:53-07:00</published>
+    <updated>2021-04-08T11:30:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcom-sub-ohm-tank"/>
+    <title>HorizonTech Falcon Sub-Ohm Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Falcon_Tank.jpg?v=1617906561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99 - 32.99
+            <a href="https://www.vangovapes.com/products/horizontech-falcom-sub-ohm-tank">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HorizonTech latest Sub-Ohm tank equipped with the newest technology, a triple air flow system and a new coil system with innovative flax and wood pulp materials. The tank is 25.2mm base diameter holding up to 5ml of juice, infused with a sophisticated materials with microporus to faster saturate and enhance flavor profiles.</p>
+<p><span> Product Features:</span></p>
+<ul>
+<li>25.2mm Diameter</li>
+<li>Threaded Top Fill SystemTwo Fill Ports</li>
+<li>5ml Maximum Tank Capacity</li>
+<li>HorizonTech Falcon Coil Family</li>
+<li>Vertical Coil Orientation</li>
+<li>Dual Bottom Airslots14mm by 3mm Each</li>
+<li>Fully Closable</li>
+<li>11mm Bore 510 Delrin Drip Tip</li>
+<li>8mm Bore 510 Resin Drip Tip</li>
+<li>Resin At Random</li>
+<li>Gold Plated 510</li>
+<li>Stainless Steel and Glass Construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Black</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Silver</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Green</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Blue</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/294163349533</id>
+    <published>2021-04-08T11:21:59-07:00</published>
+    <updated>2021-04-08T11:21:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/samsung-inr18650-30q-3000mah"/>
+    <title>Samsung INR 18650 - 25R 2500mAh 20A Battery</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SAMSUNG-INR-18650---25R-2500MAH-20A-BATTERY.jpg?v=1565197910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Please note Samsung SDI manufactures the 25R in both Korea and Malaysia. Our stock is comingled and you may receive either type. The cells perform to the same specification, the only difference is the country of origin. Malaysian cells are marked SDIEM (Samsung SDI Energy Malaysia).</span>
+<p> </p>
+<ul>
+<li>Brand: Samsung SDI</li>
+<li>Model: 25R</li>
+<li>Size: 18650</li>
+<li>Nominal Capacity: 2500mAh</li>
+<li>Nominal Voltage: 3.6V</li>
+<li>Maximum Voltage: 4.2V</li>
+<li>Discharge Current: 20A Maximum Continuous</li>
+<li>Style: Flat Top</li>
+<li>Protected: NO, UNPROTECTED</li>
+<li>Approximate Dimensions: 18.33m x 64.85mm</li>
+<li>Approximate Weight: 45g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>battery</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/294163349533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/778445946995</id>
+    <published>2021-04-08T10:51:07-07:00</published>
+    <updated>2021-04-08T10:51:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/airis-8-mod"/>
+    <title>Airistech Airis 8 Multi-Use Vaporizer</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Airis_8.png?v=1535559257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Airis 8 is a two function vape that can be used a wax or dab pen. </p>
+<p><strong>How to use the Airis 8 as a Dab pen:</strong></p>
+<p>Simply remove the dab mouthpiece, and heat up the touch coil. To heat the coil up you just need to hold down the power button. Once the coil has properly heated you can touch it to the concentrate you are using to dab. It is important that you inhale on the dab vape pen mouthpiece as you touch the coil to the concentrate. Make sure that you do not touch the hot coil with your fingers before or after dabbing.</p>
+<p><strong>How to use the Airis 8 as a was pen:</strong></p>
+<p>To use the Airis 8 as a portable wax pen you need to use the enclosed wax coil, not the exposed dab coil. Once the correct coil has been screwed into the body of the vape you need to load the coil with concentrate. To do this just unscrew the top cap part of the coil and load wax. Make sure to not overload the coil. Replace the mouthpiece and then turn it on. You must hold the power button down to vaporize the wax.</p>
+<p><strong>Packaging:</strong></p>
+<ul>
+<li>The battery or body portion of the vaporizer.</li>
+<li>Two coils, one for dabbing and one for vaping.</li>
+<li>A removable mouthpiece.</li>
+<li>A micro-USB charging cable.</li>
+<li>A metal dab tool.</li>
+<li>A cleaning brush.</li>
+<li>The user manual</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cannabis</s:tag>
+    <s:tag>device</s:tag>
+    <s:tag>dry herb</s:tag>
+    <s:tag>extract</s:tag>
+    <s:tag>shatter</s:tag>
+    <s:tag>thc</s:tag>
+    <s:tag>vaporizer</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/778445946995</id>
+      <title>Black</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>HD0098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6560097501299</id>
+    <published>2021-04-08T10:40:39-07:00</published>
+    <updated>2021-04-08T10:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/uwell-crown-5-v-sub-ohm-tank-bc-compliant"/>
+    <title>Uwell Crown 5 (V) Sub-Ohm Tank (BC Compliant)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/UWELLCROWN5_large_1e84a6d3-5118-49cd-8e0e-008fd8bf67b8.jpg?v=1623718238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Uwell CROWN 5 Tank in CRC Version, featuring a 2mL refillable capacity, quarter turn top fill system, and pro-FOCS Flavor Testing technology to boost flavor. In addition, at the base of the tank is a dual slotted airflow control ring that can be opened or closed fully to carefully meter airflow into the tank, allowing the user to find the ideal rate of airflow for optimal flavor or cloud production. Introducing a new coil series, the Crown 5 tank utilizes Crown 5 Coils, all constructed in a mesh manner to deliver intense flavor and vapor output at lower wattages.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">29mm Diameter</li>
+<li data-mce-fragment="1">Pyrex Glass Reinforcement</li>
+<li data-mce-fragment="1">Superior Stainless Steel Tank Construction</li>
+<li data-mce-fragment="1">Quarter Turn Top Fill System</li>
+<li data-mce-fragment="1">Uwell CROWN 5 Coil Series</li>
+<li data-mce-fragment="1">0.23ohm UN2 Single Mesh Coil - rated for 65-70W</li>
+<li data-mce-fragment="1">0.3ohm UN2-2 Dual Mesh Coils - rated for 50-55W</li>
+<li data-mce-fragment="1">Press-Fit Coil Installation</li>
+<li data-mce-fragment="1">Pro-FOCS Flavor Testing Technology</li>
+<li data-mce-fragment="1">Dual Slotted Bottom Airflow Control Ring</li>
+<li data-mce-fragment="1">Detachable Structure</li>
+<li data-mce-fragment="1">Threaded 510 Connection</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x Uwell Crown 5 Tank [BC][CRC]</li>
+<li data-mce-fragment="1">1x Replacement Glass</li>
+<li data-mce-fragment="1">1x 0.23ohm UN2 Mesh Coil</li>
+<li data-mce-fragment="1">1x 0.3ohm UN2-2 Mesh Coil</li>
+<li data-mce-fragment="1">1x Pack of O-Rings</li>
+<li data-mce-fragment="1">1x User's Manual</li>
+<li data-mce-fragment="1">1x Drip Tip Cover</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coil</s:tag>
+    <s:tag>crown</s:tag>
+    <s:tag>crown 5</s:tag>
+    <s:tag>sub ohm tank</s:tag>
+    <s:tag>sub-ohm</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>v</s:tag>
+    <s:tag>vape</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Red</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Silver</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Black</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Blue</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6560092455027</id>
+    <published>2021-04-08T10:36:05-07:00</published>
+    <updated>2021-04-08T10:36:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/uwell-crown-5-v-coils-4-pack"/>
+    <title>Uwell Crown 5 Replacement Coils - 4 Pack</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/uwellcrown5replacementcoil_large_c414719f-ca2a-41dd-811a-375ee6f686e5.jpg?v=1617903118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            15.99 - 17.99
+            <a href="https://www.vangovapes.com/products/uwell-crown-5-v-coils-4-pack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 REPLACEMENT COILS (4 PACK)"}' data-mce-fragment="1">The Crown 5 Mesh Coil is applicable to Crown 5 Tank. There are 3 types of mesh coil available: 0.23ohm single coil, 0. 3ohm dual coil and 0. 2ohm triple coil. The 0.23ohm single mesh coil (pre-installed) is best for 65-70W, giving you smoothest direct-to-lung vape and rich flavor while the 0. 3ohm dual mesh coil(included) is best for 50-55W.</span></p>
+<p><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 REPLACEMENT COILS (4 PACK)"}' data-mce-fragment="1">The coils suitable for a restricted direct-to-lung vape, providing warmer vapor and saturated flavor. As for the 0. 2ohm triple mesh coil (sold separately), it's best for 65-70W, bringing you slightly tight direct-to-lung vape, huge vapor and decent flavor.</span></p>
+<p><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 REPLACEMENT COILS (4 PACK)"}' data-mce-fragment="1"><strong>Includes;</strong><br></span></p>
+<ul>
+<li><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 REPLACEMENT COILS (4 PACK)"}' data-mce-fragment="1">4x Uwell crown 5 replacement coils</span></li>
+</ul>
+<ul></ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>crown</s:tag>
+    <s:tag>crown 5</s:tag>
+    <s:tag>crown coils</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>uwell</s:tag>
+    <s:tag>v</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560092455027</id>
+      <title>0.2 Ohm Mesh</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>HD0614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560092455027</id>
+      <title>0.3 Ohm Mesh</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>HD0613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560092455027</id>
+      <title>0.23 Mesh</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>HD0559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6560082198643</id>
+    <published>2021-04-08T10:23:23-07:00</published>
+    <updated>2021-04-08T10:23:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/uwell-caliburn-g-koko-prime-replacement-pod-coil-2-pack-bc-compliant"/>
+    <title>Uwell Caliburn G / Koko Prime Replacement Pod + Coil (2 Pack) (BC Compliant)</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/uwellcaliburngreplacementpod_large_461ade3a-74c7-48c2-9268-8218cac4722f.jpg?v=1617902394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Caliburn G Pod in CRC version is an pod cartridge that is suitable for Uwell Caliburn G and KOKO Prime Pod Kit. It can hold 1.6ml e-juice capacity and features 0.8ohm/1.0ohm coil resistance. It comes with top filling design for easy refilling. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Feature:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Uwell Caliburn G Pod Series</li>
+<li data-mce-fragment="1">1.6mL Pod Capacity</li>
+<li data-mce-fragment="1">Top Fill System - Mouthpiece Fill Cap</li>
+<li data-mce-fragment="1">Uwell Caliburn G Coil Series</li>
+<li data-mce-fragment="1">0.8ohm/1.0ohm Caliburn G Coil</li>
+<li data-mce-fragment="1">Press Fit Coil Installation</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">2x Uwell Caliburn G / Koko Prime Pods (mesh 0.8ohm or 1.0ohm) </li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caliburn</s:tag>
+    <s:tag>Caliburn G</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Koko</s:tag>
+    <s:tag>Koko Prime</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>Prime</s:tag>
+    <s:tag>uwell</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560082198643</id>
+      <title>0.8 ohm</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560082198643</id>
+      <title>1.0 ohm</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

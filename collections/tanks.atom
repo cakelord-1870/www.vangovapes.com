@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/tanks.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2021-08-18T18:44:52-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626930819187</id>
+    <published>2021-08-18T18:44:52-07:00</published>
+    <updated>2021-08-18T18:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-tfv9-tank-crc"/>
+    <title>SMOK - Black TFV9 Tank (CRC)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SMOKTFV9TANK1_large_92688f49-b527-474b-904e-48e2ceeb66e4.jpg?v=1629337493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Smok TFV9 Tank in CRC version, which adopts the Smok #1 Bulb Glass Tube and the diameter is 28mm, enlarges the e-juice capacity to 6.5ml, no need to add the juice frequently, the Smok Tank with the childproof locking mechanism on the top cap to keep children away, this design also effectively prevent accidental opening of the top cap and leakage of e-liquid. the TFV9 Tank with a gold-plating pin to increase the rub resistance and strengthen electrical conductivity, the connector can maintain its original appearance even if it's reused.  there are dual large airflow adjustable slots on the base, you could rotate the AFC ring to adjust the intake air freely, it will help to obtain massive clouds of vapor and excellent taste flavor. the Smok TFV9 comes with the 0.15ohm V9 Meshed Coils, which made of Nichrome material that features a large heating contact surface area to heats the e-juice fastly and evenly, will deliver the huge clouds and superb flavor with less heat time.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Material: Stainless Steel + Pyrex Glass</li>
+<li data-mce-fragment="1">Size: 56*28mm</li>
+<li data-mce-fragment="1">Capacity: 6.5ml</li>
+<li data-mce-fragment="1">Childproof Top Cap</li>
+<li data-mce-fragment="1">Convenience Top E-Juice Refill Design</li>
+<li data-mce-fragment="1">Dual Airflow Adjustable Slots On Base</li>
+<li data-mce-fragment="1">Gold-Plated 510 Thread</li>
+<li data-mce-fragment="1">Coils: V9 Meshed Coil, 0.15ohm,  30-70W, Best: 50-60W</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1*Smok TFV9 Tank [CRC]</li>
+<li data-mce-fragment="1">1*V9 Meshed Coil 0.15ohm</li>
+<li data-mce-fragment="1">1*Extra Glass Tube</li>
+<li data-mce-fragment="1">1*User Manual</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smok</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626930819187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626242723955</id>
+    <published>2021-08-17T19:52:13-07:00</published>
+    <updated>2021-08-17T19:52:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-tank"/>
+    <title>HorizonTech - Falcon 2 Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/falcontankcrc_large_59b3bdaf-7122-4631-b66f-e106ab4c11fc.jpg?v=1629255134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="STYLE6" data-mce-fragment="1">Horizon Falcon 2 Tank Atomizer in CRC version is a new version of the HorizonTech Falcon series. Horizon Falcon 2 Sub Ohm Tank features 5.2ml e-juice capacity to meet your vaping needs. It is made of Pyrex glass and stainless steel material that makes your device durable.</p>
+<p class="STYLE6" data-mce-fragment="1">The HorizonTech Falcon II replacement tank adopts adjustable airflow and resin drip tip that will bring you purest and fantastic vaping flavor. What's more, it features a new fan-shaped coil, the tapered structure forms a bottom-up vapor compression path, which makes the flavor denser and the vapor more smooth. HorizonTech Falcon II sub-ohm tank optimizes the core change method: the former core is threaded and must be replaced after the smoke oil is completely used up, now simply unscrew the base and pull the atomization core directly without smudging the hand.</p>
+<p class="STYLE6" data-mce-fragment="1"><strong data-mce-fragment="1">Parameters</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tank Length: 56mm</li>
+<li data-mce-fragment="1">Excircle Diameter: 25mm</li>
+<li data-mce-fragment="1">Glass Tube Diameter: 28mm</li>
+<li data-mce-fragment="1">Capacity: 5.2ml / 3.4ml(Glass Tube)</li>
+<li data-mce-fragment="1">Coil Option: Falcon 2 Sector Mesh Coil</li>
+<li data-mce-fragment="1">Coil Resistance: 0.14ohm</li>
+<li data-mce-fragment="1">Wattage: 70-75W</li>
+<li data-mce-fragment="1">Fill: Top-filling system</li>
+<li data-mce-fragment="1">Connection: 510</li>
+<li data-mce-fragment="1">Material: Stainless Steel (Body) + Pyrex Glass (Tank) + Resin (Drip Tip)</li>
+</ul>
+<p data-mce-fragment="1">﻿<strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x Falcon II Tank [CRC]</li>
+<li data-mce-fragment="1">1x Sector Coil</li>
+<li data-mce-fragment="1">1x 3.4ml Glass tube</li>
+<li data-mce-fragment="1">1x Set of O rings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/777676128371</id>
+    <published>2021-04-08T11:30:53-07:00</published>
+    <updated>2021-04-08T11:30:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcom-sub-ohm-tank"/>
+    <title>HorizonTech Falcon Sub-Ohm Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Falcon_Tank.jpg?v=1617906561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99 - 32.99
+            <a href="https://www.vangovapes.com/products/horizontech-falcom-sub-ohm-tank">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HorizonTech latest Sub-Ohm tank equipped with the newest technology, a triple air flow system and a new coil system with innovative flax and wood pulp materials. The tank is 25.2mm base diameter holding up to 5ml of juice, infused with a sophisticated materials with microporus to faster saturate and enhance flavor profiles.</p>
+<p><span> Product Features:</span></p>
+<ul>
+<li>25.2mm Diameter</li>
+<li>Threaded Top Fill SystemTwo Fill Ports</li>
+<li>5ml Maximum Tank Capacity</li>
+<li>HorizonTech Falcon Coil Family</li>
+<li>Vertical Coil Orientation</li>
+<li>Dual Bottom Airslots14mm by 3mm Each</li>
+<li>Fully Closable</li>
+<li>11mm Bore 510 Delrin Drip Tip</li>
+<li>8mm Bore 510 Resin Drip Tip</li>
+<li>Resin At Random</li>
+<li>Gold Plated 510</li>
+<li>Stainless Steel and Glass Construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Black</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Silver</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Green</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777676128371</id>
+      <title>Blue</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>HD0185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6560097501299</id>
+    <published>2021-04-08T10:40:39-07:00</published>
+    <updated>2021-04-08T10:40:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/uwell-crown-5-v-sub-ohm-tank-bc-compliant"/>
+    <title>Uwell Crown 5 (V) Sub-Ohm Tank (BC Compliant)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/UWELLCROWN5_large_1e84a6d3-5118-49cd-8e0e-008fd8bf67b8.jpg?v=1623718238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Uwell CROWN 5 Tank in CRC Version, featuring a 2mL refillable capacity, quarter turn top fill system, and pro-FOCS Flavor Testing technology to boost flavor. In addition, at the base of the tank is a dual slotted airflow control ring that can be opened or closed fully to carefully meter airflow into the tank, allowing the user to find the ideal rate of airflow for optimal flavor or cloud production. Introducing a new coil series, the Crown 5 tank utilizes Crown 5 Coils, all constructed in a mesh manner to deliver intense flavor and vapor output at lower wattages.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">29mm Diameter</li>
+<li data-mce-fragment="1">Pyrex Glass Reinforcement</li>
+<li data-mce-fragment="1">Superior Stainless Steel Tank Construction</li>
+<li data-mce-fragment="1">Quarter Turn Top Fill System</li>
+<li data-mce-fragment="1">Uwell CROWN 5 Coil Series</li>
+<li data-mce-fragment="1">0.23ohm UN2 Single Mesh Coil - rated for 65-70W</li>
+<li data-mce-fragment="1">0.3ohm UN2-2 Dual Mesh Coils - rated for 50-55W</li>
+<li data-mce-fragment="1">Press-Fit Coil Installation</li>
+<li data-mce-fragment="1">Pro-FOCS Flavor Testing Technology</li>
+<li data-mce-fragment="1">Dual Slotted Bottom Airflow Control Ring</li>
+<li data-mce-fragment="1">Detachable Structure</li>
+<li data-mce-fragment="1">Threaded 510 Connection</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x Uwell Crown 5 Tank [BC][CRC]</li>
+<li data-mce-fragment="1">1x Replacement Glass</li>
+<li data-mce-fragment="1">1x 0.23ohm UN2 Mesh Coil</li>
+<li data-mce-fragment="1">1x 0.3ohm UN2-2 Mesh Coil</li>
+<li data-mce-fragment="1">1x Pack of O-Rings</li>
+<li data-mce-fragment="1">1x User's Manual</li>
+<li data-mce-fragment="1">1x Drip Tip Cover</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coil</s:tag>
+    <s:tag>crown</s:tag>
+    <s:tag>crown 5</s:tag>
+    <s:tag>sub ohm tank</s:tag>
+    <s:tag>sub-ohm</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>v</s:tag>
+    <s:tag>vape</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Red</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Silver</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Black</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6560097501299</id>
+      <title>Blue</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4627745800307</id>
+    <published>2020-12-11T11:35:47-08:00</published>
+    <updated>2020-12-11T11:35:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/aspire-nautilus-gt-tank"/>
+    <title>Aspire Nautilus GT Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_nautilusgttank2_large_f771d550-b3c3-43bf-a45d-892646a9638b.jpg?v=1607715220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aspire Nautilus GT tank is the lastest new member of the Aspire Nautilus family, combined forces of two legends has given birth to the ultimate mouth-to-lung tank system. <span>Ready to take the globally loved BVC coil range and equipped with a special airflow system, to maximize the Nautilus’ coil performance.</span></p>
+<p><span>Nautilus GT incorporates a thickened base hardware material, matching with the oblate air channel, which allows air to enter the tank directly, without any unwanted air loss. This ensures richer and thicker flavor. The thick stainless steel of Nautilus GT tank will also cool down quickly, to avoid getting hot</span></p>
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Tank capacity: 3 ml (4.2 ml with extension PSU tube)</li>
+<li>The Taifun traditional knurling design gives more friction</li>
+<li>Thick base hardware for fast heat dissipation and better flavor</li>
+<li>5 airflow adjustments</li>
+<li>Replaceable Nautilus coils, easy to change</li>
+<li> Convenient top filling</li>
+</ul>
+<p><strong>Includes:</strong></p>
+<ul>
+<li>1x Nautilus GT Tank (3.0 ml)</li>
+<li>1x Glass Tube</li>
+<li>1x Nautilus BVC 1.6Ω</li>
+<li>1x Nautilus 2S Mesh Coil 0.7Ω(Preinstalled)</li>
+<li>1x Warranty Card</li>
+<li>1x User Manual</li>
+<li>1x set of O-rings</li>
+</ul>
+<ul></ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aspire</s:tag>
+    <s:tag>BC</s:tag>
+    <s:tag>device</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>nautilus</s:tag>
+    <s:tag>sub ohm</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4627745800307</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4623107686515</id>
+    <published>2020-12-01T16:25:24-08:00</published>
+    <updated>2020-12-01T16:25:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporesso-gtx-tank-22-bc-compliant"/>
+    <title>Vaporesso GTX Tank 22 (BC Compliant)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/vaporessogtx22tank_large_701a9bfd-fde7-4ce3-9b29-1a4ddb2333f9.jpg?v=1606867219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Vaporesso GTX 22 Tank<b data-mce-fragment="1"> </b>with upgraded MESH coil and airflow control. The GTX Tank 22 can hold 2ml e-juice and comes with the extra straight 2ml glass tube. The maximum capacity reaches 2ml which guarantees you with a longer vaping experience after one filling. The top filling system is easy to use, the exposed tank opening allows liquid to be poured cleanly, and because of the enhanced seal, it can be stored leak-proof. Vaporesso GTX Tank 22 featuring a bottom AFC ring. The dual slotted bottom airflow control allows the user to carefully adjust the desired airflow making this a tank that caters to both MTL and DTL lovers alike. Besides, Vaporesso GTX Tank 22 comes with two different GTX coils and is compatible with other GTX series coils. The optimized GTX coils and the new GTX TANK 22 work perfectly to deliver great flavor in an instant when you vape, bringing the ultra-smooth airflow and rich clouds to you.​​ </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Parameters</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Diameter: 22.00mm</li>
+<li data-mce-fragment="1">Height: 49.4mm</li>
+<li data-mce-fragment="1">Tank capacity: 2ml (BC)</li>
+<li data-mce-fragment="1">Filling method: Top Filling</li>
+<li data-mce-fragment="1">Coils: GTX 0.2Ω MESH coil</li>
+<ul>
+<li data-mce-fragment="1">GTX 0.6Ω MESH coil</li>
+</ul>
+<li data-mce-fragment="1">Compatible with other GTX Coils</li>
+<li data-mce-fragment="1">Thread: 510 thread</li>
+</ul>
+<p class="STYLE7" data-mce-fragment="1"><strong data-mce-fragment="1">It comes with</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1 × GTX TANK 22 (2ML)</li>
+<li data-mce-fragment="1">1 × GTX 0.2Ω MESH coil (Pre-installed)</li>
+<li data-mce-fragment="1">1 × GTX 0.6Ω MESH coil (Inbox)</li>
+<li data-mce-fragment="1">3 × O-ring</li>
+<li data-mce-fragment="1">1 × Glass tube(2ml)</li>
+<li data-mce-fragment="1">1 × User manual</li>
+<li data-mce-fragment="1">1 × Warranty card</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gtx</s:tag>
+    <s:tag>gtx 22</s:tag>
+    <s:tag>sub-ohm</s:tag>
+    <s:tag>subohm</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4623107686515</id>
+      <title>Silver</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4623107686515</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4569802309747</id>
+    <published>2020-08-17T10:59:46-07:00</published>
+    <updated>2020-08-17T10:59:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/pulse-24-bf-rda-by-vandy-vape-tony-b"/>
+    <title>Vandy Vape Pulse 24 BF RDA</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/pulse_24_bf_rda_by_vandy_vape_tony_b_rainbow_black_stainless_steel_gold__2.jpg?v=1597686651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="value-content">
+<p><span>The Pulse 24 BF RDA by Vandy Vape presents the comprehensive upgrade of the <a href="https://www.elementvape.com/pulse-22-bf-rda-by-vandy-vape-and-tony-b-postless" alt="Pulse BF">Pulse BF</a> platform made in collaboration with Tony B., expanding the chassis with a postless deck that can accommodate dual coil structures combined with the side-mounted Kennedy-style airflow design. The construction of the Pulse 24 BF RDA measures 24.4mm in base diameter, retaining similar aesthetics as the original with a streamlined design element that creates a simple yet elegant appeal. Made in conjunction with Tony B., the creator behind the Vapor Trail Channel, the innovative conceptualized airflow style returns, featuring a side-mounted dual 3.5mm airslots that feeds into each pair of airflow tubes. The result is a concentrated and direct airway path to the deck with quad airflow tubes for maximal vapor production, while simultaneously doubling as an anti-spill mechanism due to the slanted orientation. The Pulse 24 BF integrates a quad terminal postless design, featuring large terminal openings set into the deck and tightened via side-secured Phillips screws. The spacious chamber accommodates a wide range of large coil structures with a focus in providing a capable Dual Coil structure with ample wicking well. The juice well is cleverly designed to allow efficient squonk-ready set-up, with an included bottom-feeding 510 pin that feeds directly into the two sides of the juice well. Offering an expandable Dual Coil version with ergonomic updates to create one of the most advanced rebuildable atomizer, the Pulse BF RDA by <a href="https://www.elementvape.com/brands/vandy-vape" alt="Vandy Vape">Vandy Vape</a> &amp; Tony B. is a worthy competitor to all the RDA's in the market.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pulse 24 BF RDA by Vandy Vape Features:\nA Tony B.'s Project\n24.4m Diameter\nDeep Juice Well\nSuperior Stainless Steel Construction\nInnovative Postless, Quad Terminal Design - Dual Coil Version\nPEEK-Insulated Positive Terminal Post\nDual Coil Configurations\nSide-Mounted Kennedy-Style Airflow\nDual Slotted Side Airslots\nQuad Airflow Tubes Inside Chamber\n16mm Wide Delrin Widebore Drip Tip\n17.5mm Wide ULTEM Widebore Drip Tip\n510 Drip Tip Adapter\nBottom-Feeding Squonk-Ready 510 Pin Set-Up\nGold-Plated 510 Contact Pin\nAvailable in Stainless Steel, Black, Gold, Rainbow&quot;}" data-sheets-userformat='{"2":4993,"3":[null,0],"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'><strong>Pulse 24 BF RDA by Vandy Vape Features:</strong><br></span></p>
+<ul>
+<li><span>A Tony B.'s Project</span></li>
+<li><span>24.4m Diameter</span></li>
+<li><span>Deep Juice Well</span></li>
+<li><span>Superior Stainless Steel Construction</span></li>
+<li><span>Innovative Postless, Quad Terminal Design - Dual Coil Version</span></li>
+<li><span>PEEK-Insulated Positive Terminal Post</span></li>
+<li><span>Dual Coil Configurations</span></li>
+<li><span>Side-Mounted Kennedy-Style Airflow</span></li>
+<li><span>Dual Slotted Side Airslots</span></li>
+<li><span>Quad Airflow Tubes Inside Chamber</span></li>
+<li><span>16mm Wide Delrin Widebore Drip Tip</span></li>
+<li><span>17.5mm Wide ULTEM Widebore Drip Tip</span></li>
+<li><span>510 Drip Tip Adapter</span></li>
+<li><span>Bottom-Feeding Squonk-Ready 510 Pin Set-Up</span></li>
+<li><span>Gold-Plated 510 Contact Pin</span></li>
+<li><span>Available in Stainless Steel, Black, Gold, Rainbow</span></li>
+</ul>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pulse 24 BF RDA by Vandy Vape Features:\nA Tony B.'s Project\n24.4m Diameter\nDeep Juice Well\nSuperior Stainless Steel Construction\nInnovative Postless, Quad Terminal Design - Dual Coil Version\nPEEK-Insulated Positive Terminal Post\nDual Coil Configurations\nSide-Mounted Kennedy-Style Airflow\nDual Slotted Side Airslots\nQuad Airflow Tubes Inside Chamber\n16mm Wide Delrin Widebore Drip Tip\n17.5mm Wide ULTEM Widebore Drip Tip\n510 Drip Tip Adapter\nBottom-Feeding Squonk-Ready 510 Pin Set-Up\nGold-Plated 510 Contact Pin\nAvailable in Stainless Steel, Black, Gold, Rainbow&quot;}" data-sheets-userformat='{"2":4993,"3":[null,0],"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'><strong>Includes:</strong><br></span></p>
+<ul>
+<li><span>1 Pulse 24 BF RDA</span></li>
+<li><span>1 16mm Delrin Widebore Drip Tip</span></li>
+<li><span>1 Squonk-Ready 510 Pin</span></li>
+<li><span>1 510 Drip Tip Adapter</span></li>
+<li><span>Spare Parts &amp; O-Rings</span></li>
+</ul>
+<p><span data-sheets-value='{"1":2,"2":"This product is for advanced users only. It consists of risk of damaging your mods, devices, and batteries if it is being used improperly. Please make sure that you have great understanding and have done researches on this product before purchasing.\n\nNote: When it comes to using RDA, RTA, and RDTA, we strongly recommended to wash and clean all the atomizers thoroughly and carefully. Likewise, please have a great sense of knowledge when it comes to handling and using these products.\n\nWe always strongly recommend testing the coils with ohm-meter before using them with your mods, devices and batteries. Coils with low resistance are not suitable with all mods, devices and batteries. Please make sure that your mods, devices and batteries can handle low resistance before using them.\n\nNote: There is always an inherent risk when using any rechargeable batteries at anytime and under any circumstances. ElementVape.com and any of ElementVape.com€™s parent and subsidiary companies are not held responsible for any damage for any modification of the batteries, chargers, devices and other products that we carry in any form or shape, this is including pack making.\n\nElementVape.com and any or all of ElementVape.com€™s parent and subsidiary companies will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable battery/batteries as well as chargers. Please have a greater understanding of the batteries/chargers you are using and how to care for them properly.\n\nWhen working with Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable cells, please be cautious and carefully use as they are very sensitive to charging characteristics and may explode or burn if mishandled. Please make sure that you have great knowledge on all rechargeable batteries before you use them. Always charge batteries at the clean and fire-proof surface. Never leave charging batteries unattended. If you see that there are visible damages on the batteries, please do not use. Always keep, store and transport the rechargeable cells in a safe, non-conductive container in controlled environment."}' data-sheets-userformat='{"2":13185,"3":[null,0],"10":2,"11":4,"12":0,"15":"Arial","16":9}'>Note: When it comes to using RDA, RTA, and RDTA, we strongly recommended to wash and clean all the atomizers thoroughly and carefully. Likewise, please have a great sense of knowledge when it comes to handling and using these products.<br><br>We always strongly recommend testing the coils with ohm-meter before using them with your mods, devices and batteries. Coils with low resistance are not suitable with all mods, devices and batteries. Please make sure that your mods, devices and batteries can handle low resistance before using them.<br><br>Note: There is always an inherent risk when using any rechargeable batteries at anytime and under any circumstances. ElementVape.com and any of ElementVape.com€™s parent and subsidiary companies are not held responsible for any damage for any modification of the batteries, chargers, devices and other products that we carry in any form or shape, this is including pack making.<br><br>ElementVape.com and any or all of ElementVape.com€™s parent and subsidiary companies will not be held responsible or liable for any injury, damage, or defect, permanent or temporary that may be caused by the improper use of a Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable battery/batteries as well as chargers. Please have a greater understanding of the batteries/chargers you are using and how to care for them properly.<br><br>When working with Li-ion (Lithium-ion), LiPo (Lithium-ion Polymer) and any rechargeable cells, please be cautious and carefully use as they are very sensitive to charging characteristics and may explode or burn if mishandled. Please make sure that you have great knowledge on all rechargeable batteries before you use them. Always charge batteries at the clean and fire-proof surface. Never leave charging batteries unattended. If you see that there are visible damages on the batteries, please do not use. Always keep, store and transport the rechargeable cells in a safe, non-conductive container in controlled environment.</span></p>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip tip</s:tag>
+    <s:tag>dripper</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>rda</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569802309747</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HD0400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569802309747</id>
+      <title>Gold</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HD0401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569802309747</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HD0402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/367236349981</id>
+    <published>2017-12-29T15:11:51-08:00</published>
+    <updated>2017-12-29T15:11:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/aspire-revvo-tank"/>
+    <title>Aspire Revvo Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/ASPIRE-REVVO-TANK_2.jpg?v=1565196874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><dl class="product-introduce">
+<dd class="detail">Introducing the Aspire Revvo tank, a truly 'out of this world' design with an innovative, revolutionary, new type of coil, the ARC 'Aspire Radial Coil'. The 24mm tank comes in two sizes, the TPD compliant 2ml version and of course, the standard 3.6ml version. It has an adjustable top airflow construction and a special spring loaded filling tube. Whichever you choose (or are forced to choose if you're in a TPD compliant area), you'll be amazed by the innovation that Aspire has put into this fantastic new design.</dd>
+</dl>
+<div class="clearbox">
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>Dimensions: 45*24mm</li>
+<li>3.6mL Tank Capacity</li>
+<li>ARC Coil (Aspire Radial Coil)</li>
+<li>Adjustable Top Airflow</li>
+<li>Wide Bore Drip Tip</li>
+<li>Convenient Top Fill Method</li>
+</ul>
+<p><strong>Package Contents:</strong></p>
+<ul>
+<li>1 x Revvo Tank</li>
+<li>2 x Coils (0.1Ω)</li>
+<li>1 x Replacement Glass Tube</li>
+<li>1 x Protective Silicone Cap</li>
+<li>10 x Spare O-Rings</li>
+<li>1 x User Manual</li>
+<li>1 x Warranty Card</li>
+<li>1 x Warning CArd</li>
+</ul>
+</div>
+<div class="sharethis">
+<div class="addthis_inline_share_toolbox" data-url="http://www.aspirecig.com/aspire-tanks/revvo/revvo485.html" data-title="Aspire Revvo Tank - Aspire® Official Site">
+<div id="atstbx2" class="at-share-tbx-element addthis-smartlayers addthis-animated at4-show" aria-labelledby="at-8035769c-adfc-4b2b-a8ef-f6ef9ad19824" role="region">
+<span id="at-8035769c-adfc-4b2b-a8ef-f6ef9ad19824" class="at4-visually-hidden"></span>
+<div class="at-share-btn-elements"></div>
+<style></style>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coil</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>vape</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/367236349981</id>
+      <title>Black</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/367236349981</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/367236349981</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

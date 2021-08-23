@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/best-selling-products.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2021-08-18T19:17:36-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/6625720926323</id>
+    <published>2021-08-18T19:17:36-07:00</published>
+    <updated>2021-08-18T19:17:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-nord-4-pod-replacement"/>
+    <title>SMOK - Nord 4 Pod Replacement - Pack of 3</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/nord4replacementpod_large_f2a6a230-9947-48a5-9357-9b406ace7a42.jpg?v=1629167984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">SMOK Nord 4 empty pod in CRC Version is specially designed for SMOK Nord 4 Kit, it features a refillable 4.5ml capacity, a side filled, store more of your favorite e-juice, enough to meet long-time vape needs.</span>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nord 4</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625720926323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6625714765939</id>
+    <published>2021-08-18T19:13:32-07:00</published>
+    <updated>2021-08-18T19:13:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-rpm-2-replacement-coils-5-pack"/>
+    <title>SMOK RPM 2 - Replacement coils - 5 Pack</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SMOKRPM2REPLACEMENTCOILS_large_1.jpg?v=1629167396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99 - 16.99
+            <a href="https://www.vangovapes.com/products/smok-rpm-2-replacement-coils-5-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">SMOK RPM2 replacement coils (5 PACK) is compatible with the following SMOK Pod Kits, the RPM 2 Pod System and the SCAR-P3 and SCAR-P5.</span></p>
+<p>It comes with 2 types of coils: Mesh 0.16ohm Coil (25-50W) and DC 0.6ohm MTL Coil.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>rpm</s:tag>
+    <s:tag>rpm2</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625714765939</id>
+      <title>0.16 Mesh</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>HD0599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625714765939</id>
+      <title>0.6 DC</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626930819187</id>
+    <published>2021-08-18T18:44:52-07:00</published>
+    <updated>2021-08-18T18:44:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-tfv9-tank-crc"/>
+    <title>SMOK - Black TFV9 Tank (CRC)</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SMOKTFV9TANK1_large_92688f49-b527-474b-904e-48e2ceeb66e4.jpg?v=1629337493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Smok TFV9 Tank in CRC version, which adopts the Smok #1 Bulb Glass Tube and the diameter is 28mm, enlarges the e-juice capacity to 6.5ml, no need to add the juice frequently, the Smok Tank with the childproof locking mechanism on the top cap to keep children away, this design also effectively prevent accidental opening of the top cap and leakage of e-liquid. the TFV9 Tank with a gold-plating pin to increase the rub resistance and strengthen electrical conductivity, the connector can maintain its original appearance even if it's reused.  there are dual large airflow adjustable slots on the base, you could rotate the AFC ring to adjust the intake air freely, it will help to obtain massive clouds of vapor and excellent taste flavor. the Smok TFV9 comes with the 0.15ohm V9 Meshed Coils, which made of Nichrome material that features a large heating contact surface area to heats the e-juice fastly and evenly, will deliver the huge clouds and superb flavor with less heat time.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Material: Stainless Steel + Pyrex Glass</li>
+<li data-mce-fragment="1">Size: 56*28mm</li>
+<li data-mce-fragment="1">Capacity: 6.5ml</li>
+<li data-mce-fragment="1">Childproof Top Cap</li>
+<li data-mce-fragment="1">Convenience Top E-Juice Refill Design</li>
+<li data-mce-fragment="1">Dual Airflow Adjustable Slots On Base</li>
+<li data-mce-fragment="1">Gold-Plated 510 Thread</li>
+<li data-mce-fragment="1">Coils: V9 Meshed Coil, 0.15ohm,  30-70W, Best: 50-60W</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1*Smok TFV9 Tank [CRC]</li>
+<li data-mce-fragment="1">1*V9 Meshed Coil 0.15ohm</li>
+<li data-mce-fragment="1">1*Extra Glass Tube</li>
+<li data-mce-fragment="1">1*User Manual</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smok</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626930819187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>HD0598</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626246819955</id>
+    <published>2021-08-17T20:12:19-07:00</published>
+    <updated>2021-08-17T20:12:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/bacon-prime-vape-cotton"/>
+    <title>Bacon Prime - Vape Cotton</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_cottonbaconprime2_large_2ba1820c-d7b9-4a72-b50f-c3c264786db0.jpg?v=1629256295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">That's right, the folks at Wick 'n' Vape have further refined their already exceptional, industry standard cotton wicking! Cotton Bacon Prime promises to wick 33% faster than traditional Cotton Bacon, boasting better wicking than any cotton on the market currently. We are very excited to be among the first to bring you this top shelf cotton!</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifications:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Perfect for Squonking, tanks and RDAs</li>
+<li data-mce-fragment="1">33% faster absorption, easier separation</li>
+<li data-mce-fragment="1">The most cutting edge, cleanest and easy to use cotton wick.</li>
+<li data-mce-fragment="1">Every bag of Cotton Bacon PRIME includes a unique authentication number that can be verified independently.</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>Vape cotton</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626246819955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626244034675</id>
+    <published>2021-08-17T19:56:25-07:00</published>
+    <updated>2021-08-17T19:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-replacement-glass-5-2ml"/>
+    <title>HorizonTech - Falcon 2 Replacement Glass</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_falcon2replacementglassbubble_large_f741664a-c3ea-4fd1-9ca9-eb61b6d06745.jpg?v=1629255384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">HORIZONTECH FALCON 2 BUBBLE GLASS</p>
+<p data-mce-fragment="1">The replacement glass for Horizontech Falcon 2 tanks, in 5.2 ml juice capacity.</p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>replacement glass</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626244034675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626242723955</id>
+    <published>2021-08-17T19:52:13-07:00</published>
+    <updated>2021-08-17T19:52:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-tank"/>
+    <title>HorizonTech - Falcon 2 Tank</title>
+    <s:type>Tank</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/falcontankcrc_large_59b3bdaf-7122-4631-b66f-e106ab4c11fc.jpg?v=1629255134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Tank<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="STYLE6" data-mce-fragment="1">Horizon Falcon 2 Tank Atomizer in CRC version is a new version of the HorizonTech Falcon series. Horizon Falcon 2 Sub Ohm Tank features 5.2ml e-juice capacity to meet your vaping needs. It is made of Pyrex glass and stainless steel material that makes your device durable.</p>
+<p class="STYLE6" data-mce-fragment="1">The HorizonTech Falcon II replacement tank adopts adjustable airflow and resin drip tip that will bring you purest and fantastic vaping flavor. What's more, it features a new fan-shaped coil, the tapered structure forms a bottom-up vapor compression path, which makes the flavor denser and the vapor more smooth. HorizonTech Falcon II sub-ohm tank optimizes the core change method: the former core is threaded and must be replaced after the smoke oil is completely used up, now simply unscrew the base and pull the atomization core directly without smudging the hand.</p>
+<p class="STYLE6" data-mce-fragment="1"><strong data-mce-fragment="1">Parameters</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tank Length: 56mm</li>
+<li data-mce-fragment="1">Excircle Diameter: 25mm</li>
+<li data-mce-fragment="1">Glass Tube Diameter: 28mm</li>
+<li data-mce-fragment="1">Capacity: 5.2ml / 3.4ml(Glass Tube)</li>
+<li data-mce-fragment="1">Coil Option: Falcon 2 Sector Mesh Coil</li>
+<li data-mce-fragment="1">Coil Resistance: 0.14ohm</li>
+<li data-mce-fragment="1">Wattage: 70-75W</li>
+<li data-mce-fragment="1">Fill: Top-filling system</li>
+<li data-mce-fragment="1">Connection: 510</li>
+<li data-mce-fragment="1">Material: Stainless Steel (Body) + Pyrex Glass (Tank) + Resin (Drip Tip)</li>
+</ul>
+<p data-mce-fragment="1">﻿<strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1x Falcon II Tank [CRC]</li>
+<li data-mce-fragment="1">1x Sector Coil</li>
+<li data-mce-fragment="1">1x 3.4ml Glass tube</li>
+<li data-mce-fragment="1">1x Set of O rings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>tank</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626242723955</id>
+      <title>Stainless Steel</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HD0616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626241249395</id>
+    <published>2021-08-17T19:46:41-07:00</published>
+    <updated>2021-08-17T19:46:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-replacement-coils-pack-of-3"/>
+    <title>HorizonTech - Falcon 2 Replacement Coils - Pack of 3</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_horizontechfalconcoils_large_474610ba-870c-4f15-b4ee-7cd97322ba87.jpg?v=1629254796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Horizontech Falcon 2 coil is designed for the horizontech Falcon 2 tanks. which is the sector mesh coils with wood pulp cotton. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">0.14 OHM, best for 70-75W </li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626241249395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>HD0615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620118319219</id>
+    <published>2021-07-29T13:33:09-07:00</published>
+    <updated>2021-07-29T13:33:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-love-pink-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Love Pink</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-LOVEPINK-20MG_1024x_9b827a8e-dea9-43b9-83b8-3008ae891b0b.jpg?v=1627590801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs! </span></p>
+<p><span data-mce-fragment="1">Love Pink is a homemade <span style="color: #fc77be;"><strong>pink lemonade</strong></span> that is sweet and sour, perfect for hot summer days!</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>citrus</s:tag>
+    <s:tag>lemonade</s:tag>
+    <s:tag>pink lemonade</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620118319219</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620114780275</id>
+    <published>2021-07-29T13:32:50-07:00</published>
+    <updated>2021-07-29T13:32:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-mango-disposable-pod-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Mango</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_Mango.png?v=1627689142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p>Arguably one of the best fruits ever, we have a juicy tropical <span style="color: #ff8000;"><strong>mango</strong></span> flavor that will blow you away.</p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mango</s:tag>
+    <s:tag>simple fruit</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620114780275</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620114780275</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0597</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620116287603</id>
+    <published>2021-07-29T13:31:54-07:00</published>
+    <updated>2021-07-29T13:31:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-mixed-berries-disposable-pod-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Mixed Berries</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_MixedBerries.png?v=1627690005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span><br></p>
+<p>Cant decide if you want a <span style="color: #00aaff;"><strong>blueberry</strong></span>, <span style="color: #ec5454;"><strong>raspberry</strong></span> or <span style="color: #ff2a00;"><strong>strawberry</strong></span> flavor? Well why not try them all at the same time. Enjoy a fruity extravaganza with a juicy mixed berry combination.</p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blueberry</s:tag>
+    <s:tag>raspberry</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620116287603</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620115206259</id>
+    <published>2021-07-29T13:31:17-07:00</published>
+    <updated>2021-07-29T13:31:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-orange-sparkle-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Orange Sparkly</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-ORANGESPARKLE-20MG_1200x_a59a6850-8110-488c-ba11-e2a95ea43404.jpg?v=1627590688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span><br></p>
+<p><span data-mce-fragment="1">Orange Sparkly is a refreshing <span style="color: #ff8000;"><strong>orange</strong></span> beverage!</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>orange</s:tag>
+    <s:tag>soda</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620115206259</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620117500019</id>
+    <published>2021-07-29T13:30:23-07:00</published>
+    <updated>2021-07-29T13:30:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-pink-sparkle-disposable-pod-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Pink Sparkle</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-PINKSPARKLE-20MG_1200x_7958b6e6-0966-45a5-bdc3-33da3400135f.jpg?v=1627590638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Pink Sparkle is a classic flavor that resembles a iconic beverage of our youth. This <span style="color: #e9694d;" mce-data-marked="1"><strong>cream soda</strong></span> will bring those happy nostalgic feelings of our past, as we get to enjoy it in our Snow Plus pods everyday.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>creamy</s:tag>
+    <s:tag>soda</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620117500019</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620123070579</id>
+    <published>2021-07-29T13:29:09-07:00</published>
+    <updated>2021-07-29T13:29:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-honeydew-menthol-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Honeydew Menthol</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_Honeydew.png?v=1627688967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span>Our ripe and sweet <span style="color: #71c954;"><strong>honeydew melon</strong></span> flavor is expertly blended with cool, refreshing <span style="color: #3780cf;"><strong>menthol</strong></span>. A perfectly blended year-round flavor for all of the “ice” vapers.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>melons</s:tag>
+    <s:tag>menthol</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620123070579</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0595</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620123070579</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620121006195</id>
+    <published>2021-07-29T13:28:17-07:00</published>
+    <updated>2021-07-29T13:28:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-fuji-mama-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Fuji Mama</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-FUJIMAMA-20MG_1200x_a364b333-5832-4ec3-8684-ba47e6fec15f.jpg?v=1627590512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Fuji Mama is a flavor for die hard fans who love fruity vapes. We paired Fuji <span style="color: #73d241;"><strong>apples</strong></span>, <span style="color: #2b00ff;"><strong>berries</strong></span> and juicy <span style="color: #f29c56;"><strong>nectarines</strong></span> creating a trifecta of sweet, tart and juicy flavored vape.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>berries</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620121006195</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0589</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620122382451</id>
+    <published>2021-07-29T13:27:34-07:00</published>
+    <updated>2021-07-29T13:27:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-flavorless-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Flavorless</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_Flavorless.png?v=1627689860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span>If you’re searching for a simple, no fragrance, no aftertaste vaping experience or flavorful pods just aren’t your thing, then our flavorless pods are made for you.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flavorless</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620122382451</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0591</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620109766771</id>
+    <published>2021-07-29T13:26:42-07:00</published>
+    <updated>2021-07-29T13:26:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-mint-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Mint</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_Mint.png?v=1627689310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a <strong>capacity of 2.0 mL per pod</strong>, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">This flavor hits you like the chills of the artic wind. The classic <span style="color: #00aaff;"><strong>menthol</strong> </span>will keep you refreshed with a satisfying taste of <span style="color: #82d133;"><strong>minty</strong></span> goodness.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>menthol</s:tag>
+    <s:tag>mint</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620109766771</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620109766771</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620117106803</id>
+    <published>2021-07-29T13:25:39-07:00</published>
+    <updated>2021-07-29T13:25:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-original-tobacco-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Original Tobacco</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Snow_Plus_OG_Tobacco.png?v=1627688538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p>Enjoy a rich <span style="color: #c67422;"><strong>tobacco</strong></span> flavor with deep earthy notes that resembles a authentic taste of fresh tobacco leaves.</p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tobacco</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620117106803</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620122808435</id>
+    <published>2021-07-29T12:01:57-07:00</published>
+    <updated>2021-07-29T12:01:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-peach-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Peach</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SnowPlus_Peach.png?v=1627689451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p>Enjoy a sweet and juicy <span style="color: #ff8000;"><strong>peach</strong> </span>in your favorite Snow Plus device color.</p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>peach</s:tag>
+    <s:tag>simple fruit</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620122808435</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620122808435</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620122546291</id>
+    <published>2021-07-29T12:01:12-07:00</published>
+    <updated>2021-07-29T12:01:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-the-island-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - The Island</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-THEISLAND-20MG_1024x_d3465a9e-5da6-4a1f-b68d-26c07ab78bc9.jpg?v=1627585223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Enjoy your vacation on the Caribbean Islands with a fresh juicy <span style="color: #ff8000;"><strong>pineapple</strong> </span>favored vape!</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a href="https://www.vangovapes.com/products/snow-plus-device" title="Snow Plus Vaping Device" target="_blank" data-mce-href="https://www.vangovapes.com/products/snow-plus-device"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pineapple</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620122546291</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0592</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620118450291</id>
+    <published>2021-07-29T12:00:36-07:00</published>
+    <updated>2021-07-29T12:00:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-splash-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Splash</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/snowPlus_06_splash_1200x_51a38cdc-34c4-4a3e-bbb3-0068e9bb66b7.jpg?v=1627585257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Enjoy a classic combination of sweet <span style="color: #e74d2e;"><strong>strawberries</strong></span> and fresh <span style="color: #74b730;"><strong>kiwi</strong></span>!</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620118450291</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620119793779</id>
+    <published>2021-07-29T11:59:30-07:00</published>
+    <updated>2021-07-29T11:59:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-the-garden-disposable-pod-bc-compliant"/>
+    <title>Snow Plus Pod Pack - The Garden</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-THEGARDEN-20MG_1024x_2b2347b1-278d-4fbe-ad22-3adf0d23523d.jpg?v=1627585190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Garden is a classic combination of juicy <span style="color: #80ff00;"><strong>watermelon</strong></span> and sweet <span style="color: #ff0000;"><strong>strawberries</strong></span> that makes it a perfect all day vape.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a title="Snow Plus Vaping Device" href="https://www.vangovapes.com/products/snow-plus-device" data-mce-href="https://www.vangovapes.com/products/snow-plus-device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>strawberry</s:tag>
+    <s:tag>watermelon</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620119793779</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620121989235</id>
+    <published>2021-07-29T11:38:21-07:00</published>
+    <updated>2021-07-29T11:38:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-the-orchard-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - The Orchard</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-THEORCHARD-20MG_1024x_e67cf6ec-f152-4e24-8cb2-2b4f003dc1f3.jpg?v=1627583895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p>Enjoy the views of your orchard with a fresh <span style="color: #e62e2e;"><strong>apple</strong></span> and crisp <span style="color: #e6882e;"><strong>pear</strong></span> flavored vape. </p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a href="https://www.vangovapes.com/products/snow-plus-device" title="Snow Plus Vaping Device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>pear</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620121989235</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0590</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620118515827</id>
+    <published>2021-07-29T11:34:50-07:00</published>
+    <updated>2021-07-29T11:34:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-trinity-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Trinity</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/snowPlus_07_trinity_1200x_3c2cb971-8571-4aa4-8ee4-2407330a2032.jpg?v=1627583689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<style></style>
+<p>The tropical flavors of Trinity is a combination of <span style="color: #e69443;"><strong>peach</strong></span>, <span style="color: #eaae17;"><strong>papaya</strong></span> and <span style="color: #a4863b;"><strong>coconut</strong></span> that reminds you of the sandy blue oceans of the Caribbean. </p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a href="https://www.vangovapes.com/products/snow-plus-device" title="Snow Plus Vaping Device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coconut</s:tag>
+    <s:tag>papaya</s:tag>
+    <s:tag>peach</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620118515827</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620117827699</id>
+    <published>2021-07-29T10:57:08-07:00</published>
+    <updated>2021-07-29T10:57:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-extreme-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Extreme</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/CLLSP-EXTREME-20MG_1024x_2aa82188-e268-43c2-8673-fa81f71c2cb6.jpg?v=1627581202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p>Enjoy the "extreme" fruity taste of a <span style="color: #35cc53;"><strong>sour apple</strong></span> and a sweet juicy <span style="color: #f49e49;"><strong>pear</strong></span>. </p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a href="https://www.vangovapes.com/products/snow-plus-device" title="Snow Plus Vaping Device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple</s:tag>
+    <s:tag>pear</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620117827699</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6620115533939</id>
+    <published>2021-07-29T10:56:47-07:00</published>
+    <updated>2021-07-29T10:56:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/snow-plus-dash-disposable-pods-bc-compliant"/>
+    <title>Snow Plus Pod Pack - Dash</title>
+    <s:type>Snow Plus</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/snowPlus_04_dash_1200x_80964df9-d4e0-48af-a0c0-a9770ea8d1b5.jpg?v=1627581213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Snow Plus<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Containing a</span><span data-mce-fragment="1"> </span><strong data-mce-fragment="1">capacity of 2.0 mL per pod</strong><span data-mce-fragment="1">, it follows BC Compliance laws and can put out 300 Puffs!</span></p>
+<p><span data-mce-fragment="1">Splash is a delicious blend of juicy <strong><span style="color: #c241c2;">grapes</span></strong> freshly picked from the Okanagan Valley and subtle notes of <span style="color: #7fbc42;"><strong>kiw</strong></span>i to balance the sweetness.</span></p>
+<p><span data-mce-fragment="1">These pods are designed for the Snow Plus device as found here:</span></p>
+<p><a href="https://www.vangovapes.com/products/snow-plus-device" title="Snow Plus Vaping Device" target="_blank"><span data-mce-fragment="1">https://www.vangovapes.com/products/snow-plus-device</span></a></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grape</s:tag>
+    <s:tag>kiwi</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6620115533939</id>
+      <title>35mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

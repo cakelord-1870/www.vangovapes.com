@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/accessories.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2021-08-18T19:17:36-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/6625720926323</id>
+    <published>2021-08-18T19:17:36-07:00</published>
+    <updated>2021-08-18T19:17:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-nord-4-pod-replacement"/>
+    <title>SMOK - Nord 4 Pod Replacement - Pack of 3</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/nord4replacementpod_large_f2a6a230-9947-48a5-9357-9b406ace7a42.jpg?v=1629167984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">SMOK Nord 4 empty pod in CRC Version is specially designed for SMOK Nord 4 Kit, it features a refillable 4.5ml capacity, a side filled, store more of your favorite e-juice, enough to meet long-time vape needs.</span>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nord 4</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6625720926323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626246819955</id>
+    <published>2021-08-17T20:12:19-07:00</published>
+    <updated>2021-08-17T20:12:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/bacon-prime-vape-cotton"/>
+    <title>Bacon Prime - Vape Cotton</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_cottonbaconprime2_large_2ba1820c-d7b9-4a72-b50f-c3c264786db0.jpg?v=1629256295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">That's right, the folks at Wick 'n' Vape have further refined their already exceptional, industry standard cotton wicking! Cotton Bacon Prime promises to wick 33% faster than traditional Cotton Bacon, boasting better wicking than any cotton on the market currently. We are very excited to be among the first to bring you this top shelf cotton!</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specifications:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Perfect for Squonking, tanks and RDAs</li>
+<li data-mce-fragment="1">33% faster absorption, easier separation</li>
+<li data-mce-fragment="1">The most cutting edge, cleanest and easy to use cotton wick.</li>
+<li data-mce-fragment="1">Every bag of Cotton Bacon PRIME includes a unique authentication number that can be verified independently.</li>
+</ul>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cotton</s:tag>
+    <s:tag>Vape cotton</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626246819955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6626244034675</id>
+    <published>2021-08-17T19:56:25-07:00</published>
+    <updated>2021-08-17T19:56:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-2-replacement-glass-5-2ml"/>
+    <title>HorizonTech - Falcon 2 Replacement Glass</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_falcon2replacementglassbubble_large_f741664a-c3ea-4fd1-9ca9-eb61b6d06745.jpg?v=1629255384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">HORIZONTECH FALCON 2 BUBBLE GLASS</p>
+<p data-mce-fragment="1">The replacement glass for Horizontech Falcon 2 tanks, in 5.2 ml juice capacity.</p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>falcon</s:tag>
+    <s:tag>horizontech</s:tag>
+    <s:tag>replacement glass</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6626244034675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6600102445171</id>
+    <published>2021-06-14T19:14:58-07:00</published>
+    <updated>2021-06-14T19:14:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporessro-gtx-22-tank-bubble-glass-3-5ml"/>
+    <title>Vaporessro GTX 22 Tank - Bubble Glass 3.5ml</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/valor_babyv2replacementglass5ml_large_b513155b-66e9-40c4-b803-ea3e9fdaa4e8.jpg?v=1623378659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">﻿The replacement glass tube is designed for the Vaporesso GTX tank 22 that expands your juice capacity to 3.5ml. </span></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gtx 22</s:tag>
+    <s:tag>replacement glass</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6600102445171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4586654007411</id>
+    <published>2021-06-14T18:07:11-07:00</published>
+    <updated>2021-06-14T18:07:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/geekvape-aegis-boost-boost-plus-g-coil-5-pack"/>
+    <title>Geekvape Aegis Boost / Boost Plus G Coil (5 Pack)</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/geekvape-aegis-boost-replacement-coils-13543964540992_1024x1024_e56ea127-bdba-41e5-a05f-1e70d348aab8.jpg?v=1600212876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The replacement coils for the Geekvape Aegis Boost pod kits or the Aegis boost plus kit, it comes with two options:</p>
+<ul>
+<li>0.6ohm (15W -25W)</li>
+<li>0.4ohm (25W-33W)</li>
+<li><span>5 PCS / Pack</span></li>
+<li><span>Fit for GeekVape Aegis Boost Kit / Boost Plus Pod kit</span></li>
+</ul>
+<ul></ul>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 pack</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>aegis</s:tag>
+    <s:tag>boost</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>geekvape</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>nicsalt</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>salt nic</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.3</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.4</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>0.6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586654007411</id>
+      <title>1.2</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6603815125107</id>
+    <published>2021-06-14T17:21:46-07:00</published>
+    <updated>2021-06-14T17:21:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/crown-v-drip-tip"/>
+    <title>Uwell Crown V Replacement Drip Tip</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/uwellcrown5driptip_large_5ae16a18-8b63-478c-8b06-627594b5f595.jpg?v=1623715277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 DRIP TIP"}' data-mce-fragment="1">Replacement d</span><span data-sheets-userformat='{"2":14975,"3":{"1":0},"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"12":0,"14":[null,2,0],"15":"Calibri","16":12}' data-sheets-value='{"1":2,"2":"UWELL CROWN 5 DRIP TIP"}' data-mce-fragment="1">rip tip for Uwell Crown 5 tank.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>crown 5</s:tag>
+    <s:tag>crown v</s:tag>
+    <s:tag>drip tip</s:tag>
+    <s:tag>uwell</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Silver</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6603815125107</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/6584694308979</id>
+    <published>2021-05-02T19:48:44-07:00</published>
+    <updated>2021-05-02T19:48:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/mortal-koils-rebuildable-coils"/>
+    <title>Mortal Koils Premade Coils</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Website_Square_Logo.png?v=1620008313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pick up your pack of Mortal Koils for any rebuildable device right over here! Measuring at a width of 3mm, they fit in most RDAs, RDTAs, RTAs, &amp; RBA decks. On top of that, they fit in most sub-ohm tank decks provided they have the RBA adapter and each purchase comes with a few coils so you'll be equipped for a while!</p>
+<ul>
+<li>
+<strong>Framed Staples:</strong> Good for hot vapes and offer huge flavour.</li>
+<li>
+<strong>Aliens</strong> are a good all around coil. They give off a crackling sound, and have better flavour and clouds.</li>
+<li>
+<strong>Mohawks:</strong> Great flavour and clouds. As they can be a bit tricky to install, they are more appropriate for experienced installers looking for attractive coils.</li>
+</ul>
+<p>The are handmade out of Nichrome 80 (nickel chromium) which has been used for voltage and wattage control for many years. They run at 0.25 ohms and so will safely operate in many sub-ohm devices, even at higher wattages.</p>
+<p>Both Small and large orders are hand built and made to perfection with the cleanest wire, and then put in to a UV disinfection box after packaging to ensure the cleanest product we can deliever to you for your safety.</p>
+<p>It is advised to have a knowledge on Ohm's Law as well as battery safety before operating any variable vaping device.</p>
+<ul></ul>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coils</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>prebuilt</s:tag>
+    <s:tag>RDA</s:tag>
+    <s:tag>rebuildable</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Alien</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Fralien</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/6584694308979</id>
+      <title>Mohawk</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4586657153139</id>
+    <published>2021-04-08T13:05:17-07:00</published>
+    <updated>2021-04-08T13:05:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/geekvape-aegis-boost-rba"/>
+    <title>Geekvape Aegis Boost RBA</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/boostrbapod_800x_633d6be5-b87c-414e-b0fb-e45833e80b3d.jpg?v=1600213451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The<strong data-mce-fragment="1"> Geekvape Aegis Boost RBA </strong>is a 2 ml multi-functional atomizer with a new build deck designed for easy coil building to meet your different vaping needs. You can make your own coil with the DIY coil as you like. The Aegis Boost RBA tank will bring you an amazing vaping experience. </p>
+<p data-mce-fragment="1">Compatible with the <a title="Geekvape Aegis Boost" href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant" data-mce-href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant">Geekvape Aegis Boost</a>.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Pod Capacity: 2 ml</li>
+<li data-mce-fragment="1">Quantity: 1 pcs / pack</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1 x Geekvape Aegis Boost RBA 2 ml</li>
+</ul>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>boost</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>geekvape</s:tag>
+    <s:tag>nicsalt</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4586657153139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/1520533373043</id>
+    <published>2021-04-08T12:53:30-07:00</published>
+    <updated>2021-04-08T12:53:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/goot-ceramic-aligner-tool"/>
+    <title>Goot Ceramic Aligner Tool</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Ceramic_Aligner_Tool_Resized.png?v=1535395351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="descdiv desc_details">Goot CD-20 Ceramic Aligner Tool Screwdriver</div>
+<div class="descdiv desc_details">Size: 1.8mm x 0.4mm</div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details">To be used for the adjustment of electronic parts such as the components of vaporizers, audio instruments, computers, telecommunication devices and electronic components.</div>
+<div class="descdiv desc_details"></div>
+<div class="descdiv desc_details">Materials include a Ceramic Tip and  Non conductive, non-magnetic properties ideal for high frequency bands with smooth twisting.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>aligner</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>coil building</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>tool</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1520533373043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/294158958621</id>
+    <published>2021-04-08T12:17:15-07:00</published>
+    <updated>2021-04-08T12:17:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/efest-imr-26650-4200mah-battery"/>
+    <title>eFest IMR 26650 4200mAh Battery</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/EFEST-IMR-26650-4200MAH-BATTERY_1.jpg?v=1565197195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brand: Efest</span><br><span>Size: 26650</span><br><span>Chemistry: IMR</span><br><span>Nominal Capacity: 4200mAh</span><br><span>Nominal Voltage: 3.7V</span><br><span>Discharge: 25A Max Continuous, Rated 50A Max Pulse by Efest</span><br><span>Positive: Flat</span><br><span>Protected: NO, UNPROTECTED</span><br><span>Rechargeable: Yes</span><br><span>Dimensions: 26.05mm x 66.38mm</span><br><span>Weight: 88.4g</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/294158958621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/294163349533</id>
+    <published>2021-04-08T11:21:59-07:00</published>
+    <updated>2021-04-08T11:21:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/samsung-inr18650-30q-3000mah"/>
+    <title>Samsung INR 18650 - 25R 2500mAh 20A Battery</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/SAMSUNG-INR-18650---25R-2500MAH-20A-BATTERY.jpg?v=1565197910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Please note Samsung SDI manufactures the 25R in both Korea and Malaysia. Our stock is comingled and you may receive either type. The cells perform to the same specification, the only difference is the country of origin. Malaysian cells are marked SDIEM (Samsung SDI Energy Malaysia).</span>
+<p> </p>
+<ul>
+<li>Brand: Samsung SDI</li>
+<li>Model: 25R</li>
+<li>Size: 18650</li>
+<li>Nominal Capacity: 2500mAh</li>
+<li>Nominal Voltage: 3.6V</li>
+<li>Maximum Voltage: 4.2V</li>
+<li>Discharge Current: 20A Maximum Continuous</li>
+<li>Style: Flat Top</li>
+<li>Protected: NO, UNPROTECTED</li>
+<li>Approximate Dimensions: 18.33m x 64.85mm</li>
+<li>Approximate Weight: 45g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>battery</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/294163349533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4602349977715</id>
+    <published>2020-10-15T18:01:00-07:00</published>
+    <updated>2020-10-15T18:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/blitz-resin-trinity-alpha-drip-tip-510"/>
+    <title>Blitz Resin Trinity Alpha Drip Tip</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/BlitzTrinDripTip-2.jpg?v=1602809999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blitz Enterprises Resin Replacement Drip Tip for the Smok Trinity Alpha is a beautiful accessory to improve the look of your Trinity. It is useful if you break the original or just want to customize. One drip tip per package.<br><br><strong>Features:</strong><br>
+<ul>
+<li>Beautiful Resin Design</li>
+<li>Rounded Top</li>
+<li>Great Airflow</li>
+<li>510 Connector</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>alpha</s:tag>
+    <s:tag>drip tip</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>smok</s:tag>
+    <s:tag>tank</s:tag>
+    <s:tag>trinity</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0460</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>Orange</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>Purple</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602349977715</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4602266976371</id>
+    <published>2020-10-15T12:50:52-07:00</published>
+    <updated>2020-10-15T12:50:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/geekvape-aegis-boost-replacement-pod-bc"/>
+    <title>Geekvape Aegis Boost Replacement Pod (BC Compliant)</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/GeekVapeBoostPod-2.jpg?v=1602791244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The replacement pods for the Geekvape Aegis Boost Pod Kit. The pod has 2ML juice capacity with easy access to top filling. <br></p>
+<p data-mce-fragment="1">Compatible with the <a title="Geekvape Aegis Boost" href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant" data-mce-href="https://www.vangovapes.com/collections/devices/products/geekvape-aegis-boost-bc-compliant">Geekvape Aegis Boost</a>.</p>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Includes:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Geekvape Aegis Boost Replacement Pod</li>
+<li data-mce-fragment="1">Aegis boost mesh 0.4-ohm coil</li>
+<li data-mce-fragment="1">Aegis boost mesh 0.6-ohm coil</li>
+</ul>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>boost</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>geekvape</s:tag>
+    <s:tag>nicsalt</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602266976371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4602244857971</id>
+    <published>2020-10-15T11:52:31-07:00</published>
+    <updated>2020-10-15T11:52:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/efest-lush-q2-battery-charger"/>
+    <title>Efest LUSH Q2 Battery Charger</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/efest_lush_q2_2-bay_intelligent_led_battery_charger_2.jpg?v=1602787926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Efest Lush Q2 is a fast charging two bay battery charger. You'll be able to charge in a snap with independent battery slot monitors.<br data-mce-fragment="1"></p>
+<p><strong>Product Features:</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Fast Charging, Auto-select between 1.0A and 2.0A</span></li>
+<li><span class="a-list-item">Auto-Stop when fully charged &amp; auto-recharge when voltage lower than 4.05V</span></li>
+<li><span class="a-list-item">4 Kinds of protection over-discharging, over-voltage, short-circuit and reverse polarity protection</span></li>
+<li><span class="a-list-item">The batteries at or over 0.6V can be activated by the Q2 Charger</span></li>
+<li><span class="a-list-item">Battery slots are monitored independently</span></li>
+</ul>
+<p><strong>Design Features:</strong></p>
+<ul>
+<li>Inner springs made of piano wire, it provides a smooth sliding action when inserting and removing batteries.</li>
+<li>Steel cathode with low resistance and hard chromium plating processing to achieve a more precise charging voltage.</li>
+<li>15,000+ times spring testing quality warranty.</li>
+<li>Compatible with 3.6V / 3.7V LIMN/LI-ION Batteries such as 10440, 14430, 14500, 14650, 16340, 16500, 17335, 17650, 17670, 18500, 18650, 20700, 22650, 26500, 26650 and more!</li>
+<li>AC INPUT 100-240V 50/60HZ Worldwide AC Voltage Power Adapter</li>
+</ul>
+<p><strong>Package Includes:</strong><br data-mce-fragment="1"></p>
+<ul>
+<li>Lush Q2 Charger Body</li>
+<li>AC Adapter</li>
+<li>Operation Manual</li>
+<li>Warranty Card</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18650</s:tag>
+    <s:tag>2 bay</s:tag>
+    <s:tag>22650</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>amp</s:tag>
+    <s:tag>charger</s:tag>
+    <s:tag>dual</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602244857971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HD0438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4506764836979</id>
+    <published>2020-07-22T08:36:18-07:00</published>
+    <updated>2020-07-22T08:36:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/copy-of-efest-lush-v4-charger-4-bay"/>
+    <title>Efest LUSH Q4 Charger 4 Bay</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Efest-Lush-Q4-LED-Battery-Charger-Canada-Vape360_2000x2000_09f4bb68-36f6-47c4-adc4-7eae058f5fb7.jpg?v=1590692066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>FEATURES:</h4>
+<ul>
+<li><span>Three charging modes: 2.0A, 1.0A, 0.5A</span></li>
+<li><span>Auto-stop when fully charged &amp; auto-recharge when voltage lower than 4.05V</span></li>
+<li><span>4 kinds of protection over-discharging, over-voltage, short-circuit and reverse polarity protection</span></li>
+<li><span>The batteries at or over 0.6V can be activated by Q4 charger</span></li>
+<li><span>Battery slot monitors independently</span></li>
+</ul>
+<h4>COMPATIBLE WITH 3.6V/3.7V</h4>
+<h4>LIMN/LI-ION BATTERIES:</h4>
+<p><span>10440, 14430, 14500, 14650, 16340, 16500, 17335, 17650, 17670, 18500, 18650, 20700, 22650, 26500, 26650 etc</span></p>
+<h4>THE KIT INCLUDES:</h4>
+<ul>
+<li><span>1x Lush Q4 Charger Body</span></li>
+<li><span>1x AC Adapter</span></li>
+<li><span>1x Gift Bag</span></li>
+<li><span>1x Gift Box</span></li>
+<li><span>1x Operation Manual</span></li>
+<li><span>1x Warranty Card</span></li>
+</ul>
+<ol></ol>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18650</s:tag>
+    <s:tag>2 bay</s:tag>
+    <s:tag>22650</s:tag>
+    <s:tag>accessory</s:tag>
+    <s:tag>amp</s:tag>
+    <s:tag>charger</s:tag>
+    <s:tag>dual</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4506764836979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>HD0391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/777863200883</id>
+    <published>2020-06-17T10:54:57-07:00</published>
+    <updated>2020-06-17T10:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/horizontech-falcon-coils-3-pack"/>
+    <title>HorizonTech Falcon Tank Coils - Pack of 3</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/HORIZONTECH-FALCON-TANK-COILS---PACK-OF-3.jpg?v=1565217297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>HorizonTech Falcon Tank replacement coils designed for maximum flavor and a personalized vaping experience that none can compete with these. These coils are constructed with special material each with its own benefits. These coils come in a pack of 3.</span></p>
+<ul class="textarea">
+<li>F1 Falcon Coil
+<ul class="textarea">
+<li>0.2 ohm</li>
+<li>Parallel Coils</li>
+<li>Liquid Guiding Element
+<ul class="textarea">
+<li>70% Cotton and 30% Wood Pulp</li>
+</ul>
+</li>
+<li>80W</li>
+</ul>
+</li>
+<li>F2 Falcon Coil</li>
+<ul class="textarea">
+<li>0.2 ohm</li>
+<li>Parallel Coils</li>
+<li>Liquid Guiding Element
+<ul class="textarea">
+<li>Natural Flax Fiber</li>
+</ul>
+</li>
+<li>80W</li>
+</ul>
+<li>F3 Falcon Coil
+<ul class="textarea">
+<li>0.2 ohm</li>
+<li>Parallel Coils</li>
+<li>Liquid Guiding Element
+<ul class="textarea">
+<li>Flax Fiber and Flax Paper</li>
+</ul>
+</li>
+<li>70W</li>
+</ul>
+</li>
+<li>M1 Falcon Coil
+<ul class="textarea">
+<li>0.15 ohm</li>
+<li>Mesh Coils</li>
+<li>Liquid Guiding Element
+<ul class="textarea">
+<li>70% Cotton 30% Wood Pulp</li>
+</ul>
+</li>
+<li>70W</li>
+</ul>
+</li>
+<li>M2 Falcon Coil
+<ul class="textarea">
+<li>0.16 ohm</li>
+<li>70-80W</li>
+<li>30% Wood Pulp / 70% Cotton</li>
+</ul>
+</li>
+<li>M1+ Mesh Falcon Coil</li>
+<ul>
+<li>0.16 ohm</li>
+<li>Macro Mesh</li>
+<li>Liquid Guiding Element</li>
+<ul>
+<li>Bamboo Fiber and Organic Cotton</li>
+</ul>
+<li>80W</li>
+</ul>
+<li>M-Dual Falcon King Coil</li>
+<ul>
+<li>0.38 ohm</li>
+<li>Vertical Coils</li>
+<li>Liquid Guiding Element</li>
+<ul>
+<li>Bamboo Fiber and Organic Cotton</li>
+</ul>
+<li>75W</li>
+</ul>
+<li>M-Triple Mesh Falcon Coil0.15 ohm</li>
+<ul class="textarea">
+<li>Parallel Coils</li>
+<li>Liquid Guiding Element</li>
+<ul>
+<li>70% Cotton and 30% Wood Pulp</li>
+</ul>
+<li>80-85W</li>
+</ul>
+<ul class="textarea"></ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coil</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777863200883</id>
+      <title>F1 0.25 Ohm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/777863200883</id>
+      <title>M1 + 0.16 Ohm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>HD0395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4467255902323</id>
+    <published>2020-04-22T15:32:06-07:00</published>
+    <updated>2020-04-22T15:32:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/hohm-tech-grown-26650-4244mah-30-3a-battery-2-pack"/>
+    <title>Hohm Tech Grown 26650 4244mAh 30.3A Battery (2 Pack)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/hohm_tech_grown_26650_4244mah_30.3a_battery.jpg?v=1587594986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hohm Tech GROWN² 26650 4244mAh 30.3A Battery is a wonderous 26650 cell rechargeable flat top Li-NMC battery featuring an advanced scientific chemical process to maintain and further the life of the battery, making this an ideal choice for high-drain applications even in the most power-hungry devices.<br><br>Note: This listing is for a single battery cell.<br></p>
+<p><strong>Features:</strong><br></p>
+<ul>
+<li>Nominal Capacity - 4244mAh</li>
+<li>Continuous Discharge Current - 30.3A</li>
+<li>Maximum Pulse Peak - 51.6A</li>
+<li>Nominal Voltage: 3.7V</li>
+<li>Max Charge Rate: 5.30A</li>
+<li>Top: Flat Top</li>
+<li>Type: Li-NMC</li>
+<li>Size: 26650</li>
+</ul>
+<ul></ul>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>battery</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4467255902323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PK0346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/296104656925</id>
+    <published>2020-04-08T22:54:19-07:00</published>
+    <updated>2020-04-08T22:54:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/colored-replacement-glass-for-cleito-120"/>
+    <title>Aspire Cleito 120 W Colored Replacement Glass</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Aspire-cleat-120-w-colored-replacement-glass.jpg?v=1565221304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Colored Replacement Glass for Cleito 120 with 5 mL capacity.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>cleit120</s:tag>
+    <s:tag>cleito</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/296104656925</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HD0030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/296104656925</id>
+      <title>Magenta</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HD0031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/296104656925</id>
+      <title>Clear</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HD0032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/296104656925</id>
+      <title>Smoked</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HD0033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/296104656925</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>HD0034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/2027887165555</id>
+    <published>2019-04-18T16:28:27-07:00</published>
+    <updated>2019-04-18T16:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/aspire-spryte-replacement-pod"/>
+    <title>Aspire Spryte Replacement Pod</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/ASPIRE-SPRYTE-REPLACEMENT-POD_1.jpg?v=1565217191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Entire Top unit for the Aspire Spryte.</p>
+<ul>
+<li>Packages of 1</li>
+<li>Comes Pre-Installed with a 1.8 ohm Coil</li>
+<li>Also includes a new cover/cap for pod</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coil</s:tag>
+    <s:tag>coil building</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>pod systems</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>salt devices</s:tag>
+    <s:tag>salt nic</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2027887165555</id>
+      <title>1.8Ω</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>HD0206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/1811552141427</id>
+    <published>2018-11-27T15:15:39-08:00</published>
+    <updated>2018-11-27T15:15:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/510-to-810-adapter"/>
+    <title>510 to 810 Adapter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/510to810ADAPTER_2.jpg?v=1574131629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A handy tool for replacing your mouth tip of an incompatible size. This adapter fits all sizes allowing an variety of different styles or simply replacing a lost mouth piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>adapter</s:tag>
+    <s:tag>devices</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>vape</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1811552141427</id>
+      <title>White</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1811552141427</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1811552141427</id>
+      <title>Black</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/1577252651123</id>
+    <published>2018-01-22T09:59:31-08:00</published>
+    <updated>2018-01-22T09:59:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/aspire-breeze-2-pod"/>
+    <title>Aspire Breeze 2 Pod</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/ASPIRE-BREEZE-2-POD.jpg?v=1565216907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ever popular AIO (All In One) device from Aspire, the Breeze, has been redesigned with an improved filling method. Introducing the Breeze 2 now with new features and a new pod style system. The same compact and ergonomic design but a more convenient pod system that holds 2ml of e-juice, or a slightly larger 3ml version. It still has an ergonomic design and still comfortable to hold. It also retainedretainsthe great U-tech coil technology ensuring you a flavorful vape.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>﻿Simple Operation</li>
+<li>Refillable Pod System</li>
+<li>Adjustable Airflow</li>
+<li>Rechargeable 1000mAh onboard battery</li>
+<li>3.0 Capacity (ml)</li>
+<li>0.6<span>Ω Coil pre-installed</span>
+</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aio</s:tag>
+    <s:tag>aspire</s:tag>
+    <s:tag>breeze 2</s:tag>
+    <s:tag>coil</s:tag>
+    <s:tag>hardware</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/1577252651123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>HD0139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

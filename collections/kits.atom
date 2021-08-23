@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/kits.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2021-02-02T12:55:32-08:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/4654885044339</id>
+    <published>2021-02-02T12:55:32-08:00</published>
+    <updated>2021-02-02T12:55:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/copy-of-vaporesso-gen-s-kit-bc-compliant"/>
+    <title>Vaporesso Gen Nano Kit (BC Compliant)</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/vaporessogennanokit5_large_faae9358-adea-4b86-860f-ac8fcc587122.jpg?v=1612288406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vaporesso GEN Nano Kit consists of the GEN Nano Mod and the GTX Tank 22 and it is a mini and portable version of Vaporesso GEN Kit. Vaporesso GEN Nano Box mod is equipped with a built-in battery with a capacity of 2000mAh and supports 2A fast charging, offering you a longer vaping experience in a portable size. The maximum output power of GEN Nano is limited to 80 watts. Equipped with the advanced AXON chipset at the helm, the GEN Nano releases the full potential of the GEN NANO, The innovative Pulse Mode supported by the AXON chip is a way how it brings out the power, making GEN NANO fires every 0.02s to maintain the temperature control settings previously input, providing you a delicate controlled vaping experience. The Power ECO MODE leads to a longer battery endurance. </p>
+<p>Vaporesso GEN Nano Kit comes with GTX Tank 22 atomizer, which comes with a 2ml straight glass tube. The tank is compatible with GTX series coils, you can enjoy the optimal flavor and dense vapor released. With plenty of coil options and resistances, the GTX Tank 22 is extremely versatile, while delivering optimal airflow control and a convenient top-fill system.</p>
+<p><strong>Parameters</strong></p>
+<ul>
+<li>Dimensions: 115.0mm(height) x 40.3mm(width) x 24.2mm(thickness)</li>
+<li>Battery Capacity: Built-in 2000mAh</li>
+<li>Output Power: 5-80W</li>
+<li>Modes: VW Mode, Pulse Mode, Power ECO Mode, Smart TC Mode, DIY Mode</li>
+<li>Tank Capacity: 2ml</li>
+<li>Coils: GTX 0.2Ω Mesh Coil; GTX 0.6Ω Mesh Coil</li>
+<li>Compatible with other GTX Coils</li>
+<li>Charging Current: DC 5V/2A, Micro USB</li>
+<li>Display: 0.91" OLED Screen</li>
+</ul>
+<p class="STYLE7"><strong>It comes with</strong></p>
+<ul>
+<li>1 x GEN NANO MOD</li>
+<li>1 x GTX TANK 22 (2ml)</li>
+<li>1 x GTX 0.2Ω Mesh Coil</li>
+<li>1 x GTX 0.6Ω Mesh Coil</li>
+<li>1 x Glass Tube (2ml)</li>
+<li>3 x O-ring</li>
+<li>1 x USB Cable</li>
+<li>1 x GTX Coil Reminder Card</li>
+<li>1 x User Manual</li>
+<li>1 x Warranty Card</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>battery</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>kits</s:tag>
+    <s:tag>starter kit</s:tag>
+    <s:tag>sub-ohm</s:tag>
+    <s:tag>subohm</s:tag>
+    <s:tag>usb-c</s:tag>
+    <s:tag>vape</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4654885044339</id>
+      <title>Silver</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>HD0485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4654885044339</id>
+      <title>Red</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>HD0486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4654885044339</id>
+      <title>Blue</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>HD0487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4602327564403</id>
+    <published>2020-10-15T16:35:03-07:00</published>
+    <updated>2020-10-15T16:35:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-nord-2-pod-kit-bc"/>
+    <title>Smok Nord 2 Pod Kit (BC Compliant)</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/smok-nord-2-40w-pod-system-smok_500x_d409df46-c77b-458c-ac87-22425b23ae0b.jpg?v=1629168544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SMOK NORD 2 Pod Kit is a versatile pod system equipped with a 1500mAh battery, an adjustable 1-40W output, and comes with a NORD and RPM pod to support the different coil options offered by SMOK. The Nord 2 Pod System can hold up to 4.5mL of eJuice and comes with one NORD coil pod and one RPM coil pod. The NORD 2 Kit maintains the same single button layout, adding a 0.69" OLED display screen to relay the wattage output and battery life allowing you to adjust the wattage and monitor battery life. <br><br><strong>Features:</strong><br></p>
+<ul>
+<li>Proprietary Intelligent Chipset</li>
+<li>Dimensions - 95mm by 30.5mm by 20mm</li>
+<li>Integrated 1500mAh Rechargeable Battery</li>
+<li>Wattage Output Range: 1-40W</li>
+<li>Voltage Output Range: 0.5V-4.0V</li>
+<li>Resistance Range: 0.3-3.0ohm</li>
+<li>Zinc-Alloy Chassis Construction</li>
+<li>Single Button Operation - Firing &amp; Wattage Adjustment</li>
+<li>0.69"" OLED Display Screen</li>
+<li>4.5mL NORD Pod - Supports NORD Coils</li>
+<li>4.5mL RPM Pod - Supports RPM Coils</li>
+<li>Ergonomic Mouthpiece</li>
+<li>Side Fill System - Silicone Stoppered</li>
+<li>SMOK Nord &amp; RPM Coil Series</li>
+<li>0.4ohm RPM Mesh Coil</li>
+<li>0.8ohm Nord DC MTL Coil</li>
+<li>Plug 'n' Play Coil Installation</li>
+<li>Magnetic Pod Connection</li>
+<li>Pod Detection</li>
+<li>Short-Circuit Protection</li>
+<li>8 Seconds Cut-Off</li>
+<li>Low Voltage Protection</li>
+<li>MicroUSB Port</li>
+</ul>
+<p><br><strong>Includes:</strong><br></p>
+<ul>
+<li>Nord 2 Device</li>
+<li>Nord 2 RPM Pod</li>
+<li>Nord 2 Nord Pod</li>
+<li>0.4ohm RPM Mesh Coil</li>
+<li>0.8ohm Nord DC MTL Coil</li>
+<li>MicroUSB Cable</li>
+<li>User Manual</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC</s:tag>
+    <s:tag>kits</s:tag>
+    <s:tag>nic salt</s:tag>
+    <s:tag>nic salt device</s:tag>
+    <s:tag>nic salts</s:tag>
+    <s:tag>nord</s:tag>
+    <s:tag>novo</s:tag>
+    <s:tag>pods</s:tag>
+    <s:tag>smok</s:tag>
+    <s:tag>starter</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602327564403</id>
+      <title>Gold</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>HD0550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602327564403</id>
+      <title>Black Cobra</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>HD0445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602327564403</id>
+      <title>White Cobra</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>HD0602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602327564403</id>
+      <title>Red</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>HD0447</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4602241024115</id>
+    <published>2020-10-15T11:45:18-07:00</published>
+    <updated>2020-10-15T11:45:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaporesso-nrg-gt-coils-3-pack-gt4-0-14-ohms"/>
+    <title>Vaporesso NRG GT Coils (3 Pack)</title>
+    <s:type>Coil</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/vaporesso-nrg-gt4-mesh-coils-015-ohm.jpg?v=1612298578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Coil<br>
+        <strong>Price: </strong>
+            9.99 - 12.49
+            <a href="https://www.vangovapes.com/products/vaporesso-nrg-gt-coils-3-pack-gt4-0-14-ohms">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These coils were designed to fit the Vaporesso NRG tank series &amp; the GT Core line features a vertical clapton coil design for improved flavor and airflow. <br></p>
+<ul>
+<li>GT2 (0.4ohm) - Rated for 40-80 watts, these coils work best at 55-65 watts.</li>
+<li>GT4 (0.15ohm) - Rated for 30-70 watts, these coils work best at 45-60 watts.</li>
+<li>GT6 (0.15ohm) - Rated for 40-130 watts, these coils work best at 70-90 watts.</li>
+<li>GT8 (0.15ohm) - Rated for 50-110 watts, these coils work best at 60-80 watts.</li>
+<li>GT CCELL (0.5ohm) - Rated for 25-35 watts.</li>
+<li>GT CCELL2 (0.3ohm) - Rated for 35-40 watts.</li>
+<li>GT Mesh (0.18ohm) - Rated for 50-85 watts.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>battery</s:tag>
+    <s:tag>kits</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>salt nic</s:tag>
+    <s:tag>usb-c</s:tag>
+    <s:tag>vape</s:tag>
+    <s:tag>vaporesso</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT CCELL 0.5 ohms</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT CCELL2 0.3 ohms</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT Mesh 0.18 ohms</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT2 0.4 ohms</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT4 0.15 ohms</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0489</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT4 0.15 ohms Meshed</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HD0437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4602241024115</id>
+      <title>GT8 0.15 ohms</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>HD0488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4569795035251</id>
+    <published>2020-08-17T10:32:08-07:00</published>
+    <updated>2020-08-17T10:32:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/smok-novo-x"/>
+    <title>Smok Novo X Pod System (BC Compliant)</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/novox_large_e3ef4093-23d4-4777-bf03-e10581c1377a.jpg?v=1623812434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'><strong>SMOK NOVO X 25W Pod System Features:</strong><br></span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Dimensions - 92mm byb 26.5mm by 16.5mm</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Integrated 800mAh Rechargeable Battery</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Wattage Output Range: 1-25W</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Zinc-Alloy Chassis Construction</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Single Button Operation</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Draw-Activated Firing Mechanism</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>0.49" OLED Display Screen</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>LED Indicator Light</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Magnetic Pod Connection</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Refillable Pod</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>0.8ohm Novo X Mesh Pod</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>0.8ohm Novo X DC MTL Pod</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Magnetic Pod Connection</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Short-Circuit Protection</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Low Voltage Protection</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Intelligent Atomizer Recognition</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Lithium-Ion Protection</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>8 Seconds Cut-Off</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>MicroUSB Charging Port</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Available in Black Cobra, Silver Cobra, Blue Cobra, White Cobra, 7-Color Cobra, Black Stabilizing Wood, Red Stabilizing Wood, 7-Color Resin</span></li>
+</ul>
+<p> </p>
+<p><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'><strong>Includes:</strong><br></span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>1x Novo X Device</span></li>
+<li>
+<span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>2x 0.8ohm </span><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>Novo X DC MTL Pod</span>
+</li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>1x MicroUSB Cable</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Discover the SMOK NOVO X 25W Pod System, featuring a 1-25W range, OLED Display Screen, and utilizes a 0.8ohm Mesh or DC MTL Pod to create flavored vapor. Outfitted with a 1-25W range, the Novo X Pod System can deliver vapor with different wattages, experimenting to receive the best flavor from your favorite eJuice or nicotine salt. Encased within the zinc-alloy chassis is a 800mAh rechargeable battery to keep up with the user that is traveling or on-the-go. Operating off a draw-activated firing mechanism, the Novo X Pod System can create vapor on demand and is sure to be a reliable pod system."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>1x User Manual</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kits</s:tag>
+    <s:tag>nic salt device</s:tag>
+    <s:tag>nord</s:tag>
+    <s:tag>novo</s:tag>
+    <s:tag>pods</s:tag>
+    <s:tag>smok</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>Black Cobra</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>Silver Cobra</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>White Cobra</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>Blue Cobra</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>7-Color Cobra</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4569795035251</id>
+      <title>7 Color Resin</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>HD0551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/4506671743091</id>
+    <published>2020-05-28T14:17:01-07:00</published>
+    <updated>2020-05-28T14:17:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/ipv-v3-mini-kit"/>
+    <title>IPV V3 MINI KIT</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/IPV-V3-Mini-Auto-Squonk-Kit_0011_Black-C2.jpg?v=1590104214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pioneer4You IPV V3-Mini Auto-Squonk Pod System integrates an advanced YiHi ESS squonk driver, multiple intelligent control systems, intelligent YiHi SX635J chipset, and 1400mAh rechargeable battery within the visually striking chassis.</p>
+<p><strong>IPV V3 MINI KIT FEATURES</strong></p>
+<ul>
+<li><span>YiHi SX635J Chipset</span></li>
+<li><span>Integrated 1400mAh Rechargeable Battery</span></li>
+<li><span>Two Adjustable Wattage Modes: P1 &amp; P2</span></li>
+<li><span>Wattage Output Range - P1: 1-15W</span></li>
+<li><span>Wattage Output Range - P2: 2-30W</span></li>
+<li><span>Voltage Output Range: 3.2-4.2V</span></li>
+<li>3.5mL E-Liquid Capacity</li>
+<li><span>E-Liquid Container Separated from Heating Core</span></li>
+<li><span>YiHi Original ADA Atomizer Core</span></li>
+<li><span>Intelligent Anti-Burn Protection System</span></li>
+<li><span>Automatic Intelligent E-Liquid Channel Control System</span></li>
+<li><span>YiHi ESS Driver Tech</span></li>
+</ul>
+<p><strong>How to Use: </strong></p>
+<p>To lock/unlock: Press the fire button three times quickly </p>
+<p>To enter the menu: Press the fire button five times quickly </p>
+<p><strong>Includes:</strong></p>
+<ul>
+<li><span>1 IPV V3-Mini Kit </span></li>
+<li><span>1 User Manual </span></li>
+<li><span>1 USB Cable</span></li>
+</ul>
+<p><span data-sheets-value='{"1":2,"2":"Aspire Breeze 2 Ultra Portable System Features:\nDimensions: 96mm by 35mm by 19mm\n3mL Maximum Juice Capacity\nIntegrated 1000mAh Rechargeable Battery\nDirect Voltage-Based Output \nDraw-Activated Firing Mechanism\nOptional Fire Button Operation\nAluminum Body Construction\nPEPG Material Tank Section\nTop-Filled Method\nDrip Tip Plastic Cap\nBreeze U-Tech Coil Technology\n0.6ohm Breeze U-Tech Coil - caters to Nicotine Salts\n1.0ohm Breeze U-Tech Coil \nU-Shaped Cylinder Structure \nMicroUSB Charging Port \nNote: Install and Prime Coil Before Use."}' data-sheets-userformat='{"2":4993,"3":[null,0],"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'><strong><br></strong></span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aspire</s:tag>
+    <s:tag>ipv</s:tag>
+    <s:tag>kits</s:tag>
+    <s:tag>Pioneer4You</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>salt nic</s:tag>
+    <s:tag>squonk</s:tag>
+    <s:tag>squonker</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/4506671743091</id>
+      <title>Black</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>HD0366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangovapes.com/products/2028193087603</id>
+    <published>2019-12-17T12:12:22-08:00</published>
+    <updated>2019-12-17T12:12:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/start-vaping-package"/>
+    <title>Start Vaping Pack - Salt Nic Vape w/Free e-Juice (BC Compliant)</title>
+    <s:type>Device</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/Vladdin-StartVapingPackageV3-LusciousApple.png?v=1606370765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>Device<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class=""><span class="author-R9AXObpBaymH"></span></div>
+<div class="" id="magicdomid3"></div>
+<div class="" id="magicdomid4">TRADE YOUR SMOKE FOR VAPOR, AND STEP INTO A FLAVORFUL FUTURE.</div>
+<div class=""></div>
+<div class=""><br></div>
+<div class=""><span>You may have heard of vaping before. Maybe you've heard about it in the media. Vaping was invented because scientists were looking for a healthier alternative to smoking.</span></div>
+<div class=""><span></span></div>
+<div class=""><span></span></div>
+<div class=""><span></span></div>
+<div class=""><span>An e-cigarette or vaping device heats up e-liquid and turns it into vapor which you inhale. E-liquid comes in many different flavors and nicotine strengths all the way to no nicotine at all.</span></div>
+<div class=""><span></span></div>
+<div class=""><span></span></div>
+<div class=""><span></span></div>
+<div class=""><span></span></div>
+<div class=""><span>Are you interested in getting started? Grab a pack below get started with your Flaving experience now as each pack has every piece you need to start vaping today!</span></div>
+<div class="">
+<ul>
+<li><span class="author-R9AXObpBaymH">Just pick a flavor and start vaping! Everything you need is in the package; charging cable and a 20 mg flavor from our industry renowned flavor collection!</span></li>
+<li>
+<span class="author-R9AXObpBaymH">The Vladdin to be more similar to a cigarette's mouth to lung draw.</span> </li>
+</ul>
+</div>
+<div style="display: inline !important;" class="" id="magicdomid6" data-mce-style="display: inline !important;"><strong><span class="author-R9AXObpBaymH">Flavors you can choose from:</span></strong></div>
+<div class="" id="magicdomid7"></div>
+<div class="" id="magicdomid8">
+<ul>
+<li><span class="author-R9AXObpBaymH"><strong><a title="vct" href="https://www.vangovapes.com/products/vct" target="_blank">VCT</a></strong> - A rich vanilla custard flavor with hints of earthy, oaky undertones</span></li>
+</ul>
+<ul>
+<li><span class="author-R9AXObpBaymH"><strong><a href="https://www.vangovapes.com/products/rich-tobacco" target="_blank">RICH TOBACCO</a></strong> - The perfect blend for someone missing the flavor of analogs. A mild cigarette flavor</span></li>
+</ul>
+<ul>
+<li><span class="author-R9AXObpBaymH"><a href="https://www.vangovapes.com/products/apple-fritter" target="_blank"><strong>LUSCIOUS APPLE</strong></a> - Gooey apple with hints of cinnamon and dough</span></li>
+</ul>
+<ul>
+<li><span class="author-R9AXObpBaymH"><strong><a href="https://www.vangovapes.com/products/waterberry" target="_blank">FROZEN WATERBERRY</a></strong> - Strawberry, watermelon, Kiwi with a good touch of our proprietary cooling blend</span></li>
+</ul>
+<ul>
+<li><span class="author-R9AXObpBaymH"><strong><a href="https://www.vangovapes.com/products/strawberry" target="_blank">STRAWBERRY</a> </strong>- Just a straight-up delicious strawberry squeezed into a bottle</span></li>
+</ul>
+<p><span class="author-R9AXObpBaymH"><em><strong>Check out our sister site <a title="StartVaping.com" href="https://startvaping.com/">https://startvaping.com/</a> for more info. We have set up a little intro to vaping, some FAQ's, myth-busting, and vaping safety. </strong></em></span></p>
+<p><span class="author-R9AXObpBaymH"><em><strong>Learn how to set up your POD :</strong></em> <a href="https://youtu.be/5Xwli5JvRSI">CLICK HERE</a></span></p>
+</div>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>breeze</s:tag>
+    <s:tag>coils</s:tag>
+    <s:tag>deals</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>kits</s:tag>
+    <s:tag>nic salt device</s:tag>
+    <s:tag>novo</s:tag>
+    <s:tag>starter kit</s:tag>
+    <s:tag>vape</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2028193087603</id>
+      <title>Vladdin / VCT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PK0033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2028193087603</id>
+      <title>Vladdin / Luscious Apple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PK0034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2028193087603</id>
+      <title>Vladdin / Strawberry</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PK0035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2028193087603</id>
+      <title>Vladdin / Rich Tobacco</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PK0036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2028193087603</id>
+      <title>Vladdin / Frozen Waterberry</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PK0037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

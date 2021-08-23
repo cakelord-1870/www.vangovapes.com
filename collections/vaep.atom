@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangovapes.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangovapes.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangovapes.com/collections/vaep.atom"/>
+  <title>VanGo Vapes</title>
+  <updated>2019-05-21T08:37:24-07:00</updated>
+  <author>
+    <name>VanGo Vapes</name>
+  </author>
+  <entry>
+    <id>https://www.vangovapes.com/products/2052019322995</id>
+    <published>2019-05-21T08:37:24-07:00</published>
+    <updated>2019-05-21T08:37:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangovapes.com/products/vaep"/>
+    <title>VAEP</title>
+    <s:type>VAEP</s:type>
+    <s:vendor>VanGo Vapes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1054/0238/products/VGV_VAEP_Autonomy_Square.jpg?v=1558453180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VanGo Vapes<br>
+        <strong>Type: </strong>VAEP<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vaping Advocacy and Education Project Inc.</span></p>
+<ul>
+<li>Through advocacy and education, disseminate to the general population accurate and comprehensive information about vaping.</li>
+<li>Ensure smokers can make an informed decision about vaping as a smoking alternative.</li>
+</ul>
+<p>For every bottle purchased ALL the proceeds go to VAEP.</p>
+<p>When you buy a bottle you are helping and supporting people quit smoking and eventually saving their lives!</p>
+<p>Join <a href="www.vaepworld.com">www.vaepworld.com</a> for more information.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custard</s:tag>
+    <s:tag>ejuice</s:tag>
+    <s:tag>menthol</s:tag>
+    <s:tag>peach</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tobacco</s:tag>
+    <s:tag>VAEP</s:tag>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Autonomy / 0</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5494</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Justice / 3</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5421</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Beneficence / 3</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5422</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Nonmaleficence / 3</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5423</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Autonomy / 3</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5424</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Beneficence / 0</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5486</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Beneficence / 6</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5487</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Nonmaleficence / 0</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5490</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Nonmaleficence / 6</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5491</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Autonomy / 6</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5495</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Justice / 0</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5498</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangovapes.com/products/2052019322995</id>
+      <title>Justice / 6</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>FG5499</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+</feed>
